@@ -215,11 +215,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" timestamp="1461750872786">
-        <mark key="'" line="388" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" timestamp="1461753103334">
+        <mark key="'" line="304" column="0" />
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
-        <mark key="^" line="489" column="22" />
+        <mark key="^" line="449" column="22" />
         <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/fragments/MQTTSettings_Fragment.java" timestamp="1450886169395">
@@ -271,10 +271,11 @@
       <jump line="60" column="48" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/fragments/BLESettings_Fragment.java" />
       <jump line="28" column="81" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/fragments/BLESettings_Fragment.java" />
       <jump line="389" column="0" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" />
+      <jump line="306" column="0" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBJQmxlQmFzZUFjdGl2aXR5VWlDYWxsYmFjaywK</text>
+        <text encoding="base64">ICAgICAgICBTZXJpYWxNYW5hZ2VyVWlDYWxsYmFjaywK</text>
       </register>
       <register name="-" type="4">
         <text>MainActivity</text>
@@ -286,22 +287,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChnZXRBY3Rpdml0eSgpLCAiQlQgaGFzIHRvIGJlIGVuYWJsZWQgZm9yIHRoaXMgYXBwIHRvIHdvcmsiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBJQmxlQmFzZUFjdGl2aXR5VWlDYWxsYmFjaywK</text>
+        <text encoding="base64">ICAgICAgICBTZXJpYWxNYW5hZ2VyVWlDYWxsYmFjaywK</text>
       </register>
-      <register name="2" type="4">
-        <text>MainActivity</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU2VyaWFsTWFuYWdlciBtU2VyaWFsTWFuYWdlcjsK</text>
       </register>
       <register name="3" type="4">
-        <text>MainActivity</text>
+        <text encoding="base64">ICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBvblVpVnNwU2VydmljZUZvdW5kKGJvb2xlYW4gZm91bmQpIHsKCiAgICAgICAgTG9nLmQoIk1haW5BY3Rpdml0eSIsICJVaVZzcFNlcnZpY2VGb3VuZCIpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25VaVNlbmREYXRhU3VjY2VzcyhTdHJpbmcgZGF0YVNlbmQpIHsKCiAgICAgICAgTG9nLmQoIk1haW5BY3Rpdml0eSIsICJVaVNlbmREYXRhU3VjY2VzcyIpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25VaVJlY2VpdmVEYXRhKGZpbmFsIFN0cmluZyBkYXRhUmVjZWl2ZWQpIHsKCiAgICAgICAgZmluYWwgVGV4dFZpZXcgbGcgPSAoVGV4dFZpZXcpIHRoaXMuZmluZFZpZXdCeUlkKFIuaWQudGV4dFZpZXdCTEVMb2cpOwogICAgICAgIExvZy5kKCJNYWluQWN0aXZpdHkiLCAiVWlSZWNlaXZlZERhdGE6ICIgKyBkYXRhUmVjZWl2ZWQpOwoKICAgICAgICBydW5PblVpVGhyZWFkKG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAgICAgICAgIGxnLmFwcGVuZChkYXRhUmVjZWl2ZWQgKyAiXG4iKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25VaVVwbG9hZGVkKCkgewoKICAgICAgICBMb2cuZCgiTWFpbkFjdGl2aXR5IiwgIlVpVXBsb2FkZWQiKTsKICAgIH0KCi8vICAgIEBPdmVycmlkZQovLyAgICBwdWJsaWMgQmx1ZXRvb3RoQWRhcHRlcldyYXBwZXIgZ2V0QmxlV3JhcHBlckluc3RhbmNlKCkgewovLwovLyAgICAgICAgcmV0dXJuIHRoaXMuYnRhOwovLyAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>MainActivity</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBWaXJ0dWFsU2VyaWFsUG9ydERldmljZUNhbGxiYWNrLAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>BluetoothCommunication</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBJQmxlQmFzZUFjdGl2aXR5VWlDYWxsYmFjaywK</text>
       </register>
       <register name="6" type="4">
-        <text>UiDisconnecting</text>
+        <text>MainActivity</text>
       </register>
       <register name="7" type="4">
         <text>MainActivity</text>
@@ -310,7 +311,7 @@
         <text>MainActivity</text>
       </register>
       <register name="9" type="4">
-        <text>MainActivity</text>
+        <text>BluetoothCommunication</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
