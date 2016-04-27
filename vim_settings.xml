@@ -96,11 +96,10 @@
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/res/layout/blesettings_layout.xml" timestamp="1459937211740">
         <mark key="[" line="14" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/bt/BluetoothCommunication.java" timestamp="1461750845626">
-        <mark key="[" line="68" column="15" />
-        <mark key="]" line="68" column="15" />
-        <mark key="^" line="38" column="36" />
-        <mark key="." line="68" column="36" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/bt/BluetoothCommunication.java" timestamp="1461753304203">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/tss/cloudclient/settings/MQTTSettings.java" timestamp="1450886473181">
         <mark key="[" line="22" column="70" />
@@ -275,7 +274,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTZXJpYWxNYW5hZ2VyVWlDYWxsYmFjaywK</text>
+        <text encoding="base64">ICAgICAgICBzbS4K</text>
       </register>
       <register name="-" type="4">
         <text>MainActivity</text>
@@ -287,22 +286,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChnZXRBY3Rpdml0eSgpLCAiQlQgaGFzIHRvIGJlIGVuYWJsZWQgZm9yIHRoaXMgYXBwIHRvIHdvcmsiLCBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTZXJpYWxNYW5hZ2VyVWlDYWxsYmFjaywK</text>
+        <text encoding="base64">ICAgICAgICBzbS4K</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBTZXJpYWxNYW5hZ2VyVWlDYWxsYmFjaywK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgU2VyaWFsTWFuYWdlciBtU2VyaWFsTWFuYWdlcjsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBvblVpVnNwU2VydmljZUZvdW5kKGJvb2xlYW4gZm91bmQpIHsKCiAgICAgICAgTG9nLmQoIk1haW5BY3Rpdml0eSIsICJVaVZzcFNlcnZpY2VGb3VuZCIpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25VaVNlbmREYXRhU3VjY2VzcyhTdHJpbmcgZGF0YVNlbmQpIHsKCiAgICAgICAgTG9nLmQoIk1haW5BY3Rpdml0eSIsICJVaVNlbmREYXRhU3VjY2VzcyIpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25VaVJlY2VpdmVEYXRhKGZpbmFsIFN0cmluZyBkYXRhUmVjZWl2ZWQpIHsKCiAgICAgICAgZmluYWwgVGV4dFZpZXcgbGcgPSAoVGV4dFZpZXcpIHRoaXMuZmluZFZpZXdCeUlkKFIuaWQudGV4dFZpZXdCTEVMb2cpOwogICAgICAgIExvZy5kKCJNYWluQWN0aXZpdHkiLCAiVWlSZWNlaXZlZERhdGE6ICIgKyBkYXRhUmVjZWl2ZWQpOwoKICAgICAgICBydW5PblVpVGhyZWFkKG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAgICAgICAgIGxnLmFwcGVuZChkYXRhUmVjZWl2ZWQgKyAiXG4iKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25VaVVwbG9hZGVkKCkgewoKICAgICAgICBMb2cuZCgiTWFpbkFjdGl2aXR5IiwgIlVpVXBsb2FkZWQiKTsKICAgIH0KCi8vICAgIEBPdmVycmlkZQovLyAgICBwdWJsaWMgQmx1ZXRvb3RoQWRhcHRlcldyYXBwZXIgZ2V0QmxlV3JhcHBlckluc3RhbmNlKCkgewovLwovLyAgICAgICAgcmV0dXJuIHRoaXMuYnRhOwovLyAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBWaXJ0dWFsU2VyaWFsUG9ydERldmljZUNhbGxiYWNrLAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBJQmxlQmFzZUFjdGl2aXR5VWlDYWxsYmFjaywK</text>
-      </register>
-      <register name="6" type="4">
-        <text>MainActivity</text>
       </register>
       <register name="7" type="4">
         <text>MainActivity</text>
@@ -311,7 +310,7 @@
         <text>MainActivity</text>
       </register>
       <register name="9" type="4">
-        <text>BluetoothCommunication</text>
+        <text>MainActivity</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
