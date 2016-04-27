@@ -96,9 +96,12 @@
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/res/layout/blesettings_layout.xml" timestamp="1459937211740">
         <mark key="[" line="14" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/bt/BluetoothCommunication.java" timestamp="1461760524720">
-        <mark key="'" line="92" column="50" />
-        <mark key="[" line="13" column="72" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/bt/BluetoothCommunication.java" timestamp="1461767218667">
+        <mark key="'" line="91" column="50" />
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="15" column="19" />
+        <mark key="^" line="15" column="19" />
+        <mark key="." line="15" column="19" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/tss/cloudclient/settings/MQTTSettings.java" timestamp="1450886473181">
         <mark key="[" line="22" column="70" />
@@ -189,6 +192,9 @@
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/BluetoothAdapterHelperCallback.java" timestamp="1461230187196">
         <mark key="[" line="58" column="33" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/device/vsp/SerialManagerExt.java" timestamp="1461766774004">
+        <mark key="[" line="16" column="61" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/lairdtech/bt/ble/BleBaseDeviceManager.java" timestamp="1460710412437">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -196,6 +202,11 @@
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/tss/cloudclient/activities/MainActivity.java" timestamp="1461156093295">
         <mark key="[" line="15" column="27" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/ble/vsp/VirtualSerialPortDevice.java" timestamp="1461767564941">
+        <mark key="[" line="38" column="39" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/tss/lairdtech/bt/ble/BleBaseDeviceManager.java" timestamp="1460966467534">
         <mark key="[" line="249" column="71" />
@@ -273,7 +284,7 @@
         <mark key="^" line="229" column="64" />
         <mark key="." line="230" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1461764253819">
+      <file name="/fragment.java" timestamp="1461767192247">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -290,8 +301,8 @@
       <jump line="94" column="50" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/bt/BluetoothCommunication.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>BleDefinedUUIDs</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5sYWlyZHRlY2gubWlzYy5GaWZvUXVldWU7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>BleDefinedUUIDs</text>
@@ -302,32 +313,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2cuZCgiQmx1ZXRvb3RoQ29tbXVuaWNhdGlvbiIsICJVaVJlY2VpdmVkRGF0YSIpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>BleDefinedUUIDs</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5sYWlyZHRlY2gubWlzYy5GaWZvUXVldWU7Cg==</text>
       </register>
       <register name="2" type="4">
         <text>BleDefinedUUIDs</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sYWlyZHRlY2guYnQuYmxlLkJsZURlZmluZWRVVUlEczsK</text>
+      <register name="3" type="4">
+        <text>BleDefinedUUIDs</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGV1LnRzcy5ibGUudnNwLlZpcnR1YWxTZXJpYWxQb3J0RGV2aWNlOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sYWlyZHRlY2guYnQuYmxlLkJsZURlZmluZWRVVUlEczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRzcy5sYWlyZHRlY2guYnQuY2xhc3NpYy5CYXNlQnRDbGFzc2ljRGV2aWNlTWFuYWdlcjsK</text>
+        <text encoding="base64">aW1wb3J0IGV1LnRzcy5ibGUudnNwLlZpcnR1YWxTZXJpYWxQb3J0RGV2aWNlOwo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHRzcy5sYWlyZHRlY2guYnQuY2xhc3NpYy5CYXNlQnRDbGFzc2ljRGV2aWNlTWFuYWdlcjsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5sYWlyZHRlY2gubWlzYy5GaWZvUXVldWU7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>UiReceivedData</text>
       </register>
-      <register name="8" type="4">
-        <text>UiSendDataSucess</text>
-      </register>
       <register name="9" type="4">
-        <text>UiVspServiceFound</text>
+        <text>UiSendDataSucess</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
