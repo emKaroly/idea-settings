@@ -66,9 +66,9 @@
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/mqtt/MQTTListener.java" timestamp="1450883979581">
         <mark key="[" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceExt.java" timestamp="1461855168003">
-        <mark key="[" line="262" column="0" />
-        <mark key="]" line="262" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceExt.java" timestamp="1461858171963">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="63" />
         <mark key="." line="262" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/lairdtech/bt/ble/vsp/FileAndFifoAndVspManager.java" timestamp="1460710909197">
@@ -118,12 +118,12 @@
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/res/layout/blesettings_layout.xml" timestamp="1459937211740">
         <mark key="[" line="14" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/bt/BluetoothCommunication.java" timestamp="1461849501504">
-        <mark key="'" line="91" column="50" />
-        <mark key="[" line="69" column="63" />
-        <mark key="]" line="69" column="89" />
-        <mark key="^" line="69" column="89" />
-        <mark key="." line="69" column="89" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/bt/BluetoothCommunication.java" timestamp="1461857658264">
+        <mark key="'" line="94" column="50" />
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="71" column="89" />
+        <mark key="^" line="71" column="89" />
+        <mark key="." line="71" column="89" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/tss/cloudclient/settings/MQTTSettings.java" timestamp="1450886473181">
         <mark key="[" line="22" column="70" />
@@ -209,12 +209,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/fragments/BLESettings_Fragment.java" timestamp="1461854137926">
-        <mark key="'" line="27" column="81" />
-        <mark key="[" line="85" column="23" />
-        <mark key="]" line="85" column="23" />
-        <mark key="." line="85" column="23" />
-        <mark key="^" line="89" column="18" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/fragments/BLESettings_Fragment.java" timestamp="1461858144622">
+        <mark key="'" line="28" column="81" />
+        <mark key="[" line="111" column="37" />
+        <mark key="]" line="111" column="52" />
+        <mark key="." line="111" column="52" />
+        <mark key="^" line="111" column="52" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/tss/cloudclient/fragments/MQTTSettings_Fragment.java" timestamp="1461156396063">
         <mark key="[" line="12" column="0" />
@@ -240,6 +240,12 @@
         <mark key="]" line="266" column="44" />
         <mark key="." line="266" column="11" />
         <mark key="^" line="266" column="11" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/bt/BluetoothCommunicationCallbacks.java" timestamp="1461857342412">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="29" />
+        <mark key="^" line="6" column="29" />
+        <mark key="." line="6" column="29" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/tss/lairdtech/bt/ble/BleBaseDeviceManager.java" timestamp="1460966467534">
         <mark key="[" line="249" column="71" />
@@ -282,12 +288,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" timestamp="1461850324603">
-        <mark key="'" line="304" column="0" />
-        <mark key="[" line="414" column="71" />
-        <mark key="]" line="365" column="0" />
-        <mark key="." line="365" column="0" />
-        <mark key="^" line="439" column="27" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" timestamp="1461858389529">
+        <mark key="'" line="307" column="0" />
+        <mark key="[" line="449" column="87" />
+        <mark key="]" line="457" column="37" />
+        <mark key="." line="457" column="37" />
+        <mark key="^" line="457" column="37" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/fragments/MQTTSettings_Fragment.java" timestamp="1450886169395">
         <mark key="[" line="136" column="39" />
@@ -343,44 +349,44 @@
       <jump line="80" column="40" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDevice.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>MQTTSettings_Fragment</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>imple</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGhleCA9ICI0NDAwMTYwMDAwMDA1RTlGIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCJMb2dNZXNzYWdlIG5vdCBudWxsOiAiICsgbXNnKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="2" type="4">
+        <text>y&quot;;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFUb0JlU2VuZCA9IGRhdGFUb0JlU2VuZCArICIwIjsK</text>
+      <register name="3" type="4">
+        <text>VirtualSerialPortDeExt</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoZGF0YVRvQmVTZW5kLmxlbmd0aCgpICUyICE9IDApewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJCTEVTZXR0aW5nc19GcmFnbWVudCIsIHRlTWVzc2FnZS5nZXRUZXh0KCkudG9TdHJpbmcoKSk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9XYXJuaW5nCg==</text>
+      <register name="5" type="4">
+        <text>VirtualSerialPortDeExt</text>
       </register>
-      <register name="6" type="4">
-        <text>MQTTSettings_Fragment</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>String</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL21SeEJ1ZmZlci53cml0ZShjaC5nZXRTdHJpbmdWYWx1ZSgwKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFUb0JlU2VuZCA9IGRhdGFUb0JlU2VuZCArICIwIjsK</text>
       </register>
-      <register name="9" type="4">
-        <text>SerialManager&quot;, &quot;VspReceive</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYoZGF0YVRvQmVTZW5kLmxlbmd0aCgpICUyICE9IDApewo=</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
