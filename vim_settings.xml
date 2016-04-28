@@ -66,11 +66,11 @@
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/mqtt/MQTTListener.java" timestamp="1450883979581">
         <mark key="[" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceExt.java" timestamp="1461838717288">
-        <mark key="[" line="255" column="5" />
-        <mark key="]" line="281" column="5" />
-        <mark key="." line="261" column="13" />
-        <mark key="^" line="261" column="13" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceExt.java" timestamp="1461849969430">
+        <mark key="[" line="259" column="77" />
+        <mark key="]" line="257" column="54" />
+        <mark key="." line="257" column="54" />
+        <mark key="^" line="257" column="54" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/lairdtech/bt/ble/vsp/FileAndFifoAndVspManager.java" timestamp="1460710909197">
         <mark key="[" line="14" column="0" />
@@ -119,12 +119,12 @@
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/res/layout/blesettings_layout.xml" timestamp="1459937211740">
         <mark key="[" line="14" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/bt/BluetoothCommunication.java" timestamp="1461768755901">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/bt/BluetoothCommunication.java" timestamp="1461849501504">
         <mark key="'" line="91" column="50" />
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="10" />
-        <mark key="^" line="31" column="10" />
-        <mark key="." line="31" column="10" />
+        <mark key="[" line="69" column="63" />
+        <mark key="]" line="69" column="89" />
+        <mark key="^" line="69" column="89" />
+        <mark key="." line="69" column="89" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/tss/cloudclient/settings/MQTTSettings.java" timestamp="1450886473181">
         <mark key="[" line="22" column="70" />
@@ -171,9 +171,9 @@
         <mark key="]" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/ble/SerialManager.java" timestamp="1461839140692">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="97" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/ble/SerialManager.java" timestamp="1461848917506">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="68" />
         <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Heart Rate BLE Demo/src/com/lairdtech/demo/heartrateble/HeartRateActivity.java" timestamp="1460463272843">
@@ -225,11 +225,8 @@
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/BluetoothAdapterHelperCallback.java" timestamp="1461230187196">
         <mark key="[" line="58" column="33" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/device/vsp/SerialManagerExt.java" timestamp="1461839357988">
-        <mark key="[" line="59" column="28" />
-        <mark key="]" line="59" column="14" />
-        <mark key="." line="59" column="14" />
-        <mark key="^" line="59" column="14" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/device/vsp/SerialManagerExt.java" timestamp="1461848944203">
+        <mark key="[" line="60" column="68" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/lairdtech/bt/ble/BleBaseDeviceManager.java" timestamp="1460710412437">
         <mark key="[" line="18" column="0" />
@@ -286,12 +283,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" timestamp="1461838791565">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" timestamp="1461850324603">
         <mark key="'" line="304" column="0" />
-        <mark key="[" line="365" column="0" />
+        <mark key="[" line="414" column="71" />
         <mark key="]" line="365" column="0" />
         <mark key="." line="365" column="0" />
-        <mark key="^" line="437" column="27" />
+        <mark key="^" line="439" column="27" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/fragments/MQTTSettings_Fragment.java" timestamp="1450886169395">
         <mark key="[" line="136" column="39" />
@@ -348,43 +345,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SerialManager&quot;, &quot;VspReceive</text>
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>SerialManager&quot;, &quot;VspReceive</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>imple</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCgiU2VyaWFsTWFuYWdlciIsICJWc3BSZWNlaXZlZERhdGE6ICIgKyBEYXRhTWFuaXB1bGF0aW9uLmJ5dGVzVG9IZXgoY2guZ2V0VmFsdWUoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL21SeEJ1ZmZlci53cml0ZShjaC5nZXRTdHJpbmdWYWx1ZSgwKSk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>SerialManager&quot;, &quot;VspReceive</text>
+        <text>String</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ci8vICAgIEBPdmVycmlkZQovLyAgICBwdWJsaWMgdm9pZCBzZW5kKCkgewovLwovLwovLyAgICAgICAgU3RyaW5nIGhleCA9ICI0NDAwMTYwMDAwMDA1RTlGIjsKLy8gICAgICAgIFN0cmluZ0J1aWxkZXIgb3V0cHV0ID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKLy8gICAgICAgIGNoYXJbXSBvdHAgPSBuZXcgY2hhcltoZXgubGVuZ3RoKCkgLyAyXTsKLy8KLy8KLy8gICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgaGV4Lmxlbmd0aCgpOyBpICs9IDIpIHsKLy8gICAgICAgICAgICBTdHJpbmcgc3RyID0gaGV4LnN1YnN0cmluZyhpLCBpICsgMik7Ci8vICAgICAgICAgICAgb3V0cHV0LmFwcGVuZCgoY2hhcikgSW50ZWdlci5wYXJzZUludChzdHIsIDE2KSk7Ci8vICAgICAgICAgICAgb3RwW2kgLyAyXSA9IChjaGFyKSBJbnRlZ2VyLnBhcnNlSW50KHN0ciwgMTYpOwovLyAgICAgICAgfQovLyAgICAgICAgU3RyaW5nIHNvdHAgPSBuZXcgU3RyaW5nKG90cCk7Ci8vICAgICAgICBtU2VyaWFsTWFuYWdlci5zdGFydERhdGFUcmFuc2Zlcihzb3RwKTsKLy8gICAgICAgIExvZy5kKCJNYWluQWN0aXZpdHkiLCAiU2VuZDogIiArIG91dHB1dC50b1N0cmluZygpKTsKLy8gICAgfQoK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvL21SeEJ1ZmZlci53cml0ZShjaC5nZXRTdHJpbmdWYWx1ZSgwKSk7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>mCharRx</text>
+        <text>SerialManager&quot;, &quot;VspReceive</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">Ci8vICAgIEBPdmVycmlkZQovLyAgICBwdWJsaWMgdm9pZCBzZW5kKCkgewovLwovLwovLyAgICAgICAgU3RyaW5nIGhleCA9ICI0NDAwMTYwMDAwMDA1RTlGIjsKLy8gICAgICAgIFN0cmluZ0J1aWxkZXIgb3V0cHV0ID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKLy8gICAgICAgIGNoYXJbXSBvdHAgPSBuZXcgY2hhcltoZXgubGVuZ3RoKCkgLyAyXTsKLy8KLy8KLy8gICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgaGV4Lmxlbmd0aCgpOyBpICs9IDIpIHsKLy8gICAgICAgICAgICBTdHJpbmcgc3RyID0gaGV4LnN1YnN0cmluZyhpLCBpICsgMik7Ci8vICAgICAgICAgICAgb3V0cHV0LmFwcGVuZCgoY2hhcikgSW50ZWdlci5wYXJzZUludChzdHIsIDE2KSk7Ci8vICAgICAgICAgICAgb3RwW2kgLyAyXSA9IChjaGFyKSBJbnRlZ2VyLnBhcnNlSW50KHN0ciwgMTYpOwovLyAgICAgICAgfQovLyAgICAgICAgU3RyaW5nIHNvdHAgPSBuZXcgU3RyaW5nKG90cCk7Ci8vICAgICAgICBtU2VyaWFsTWFuYWdlci5zdGFydERhdGFUcmFuc2Zlcihzb3RwKTsKLy8gICAgICAgIExvZy5kKCJNYWluQWN0aXZpdHkiLCAiU2VuZDogIiArIG91dHB1dC50b1N0cmluZygpKTsKLy8gICAgfQoK</text>
+      </register>
+      <register name="5" type="4">
         <text>mCharRx</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
-      </register>
       <register name="6" type="4">
-        <text>twMessage</text>
+        <text>mCharRx</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJNUVRUU2V0dGluZ3NfRnJhZ21lbnQiLHR3TWVzc2FnZSkK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="8" type="4">
-        <text>hex</text>
+        <text>twMessage</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sYWlyZHRlY2gubWlzYy5EYXRhTWFuaXB1bGF0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJNUVRUU2V0dGluZ3NfRnJhZ21lbnQiLHR3TWVzc2FnZSkK</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
