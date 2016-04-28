@@ -66,10 +66,7 @@
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/mqtt/MQTTListener.java" timestamp="1450883979581">
         <mark key="[" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceExt.java" timestamp="1461849969430">
-        <mark key="[" line="259" column="77" />
-        <mark key="]" line="257" column="54" />
-        <mark key="." line="257" column="54" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceExt.java" timestamp="1461853111625">
         <mark key="^" line="257" column="54" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/lairdtech/bt/ble/vsp/FileAndFifoAndVspManager.java" timestamp="1460710909197">
@@ -210,12 +207,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/fragments/BLESettings_Fragment.java" timestamp="1461831874537">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/fragments/BLESettings_Fragment.java" timestamp="1461853162685">
         <mark key="'" line="27" column="81" />
-        <mark key="[" line="85" column="46" />
-        <mark key="]" line="85" column="46" />
-        <mark key="." line="85" column="46" />
-        <mark key="^" line="83" column="40" />
+        <mark key="[" line="89" column="19" />
+        <mark key="]" line="89" column="35" />
+        <mark key="." line="89" column="19" />
+        <mark key="^" line="89" column="18" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/tss/cloudclient/fragments/MQTTSettings_Fragment.java" timestamp="1461156396063">
         <mark key="[" line="12" column="0" />
@@ -345,7 +342,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>4400160000005E9F</text>
       </register>
       <register name="-" type="4">
         <text>String</text>
@@ -353,8 +350,8 @@
       <register name="/" type="4">
         <text>imple</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvL21SeEJ1ZmZlci53cml0ZShjaC5nZXRTdHJpbmdWYWx1ZSgwKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>4400160000005E9F</text>
       </register>
       <register name="1" type="4">
         <text>String</text>
