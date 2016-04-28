@@ -59,10 +59,11 @@
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/mqtt/MQTTListener.java" timestamp="1450883979581">
         <mark key="[" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceExt.java" timestamp="1461830737556">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceExt.java" timestamp="1461832206068">
         <mark key="[" line="264" column="19" />
-        <mark key="]" line="264" column="19" />
-        <mark key="." line="264" column="19" />
+        <mark key="]" line="264" column="13" />
+        <mark key="." line="264" column="13" />
+        <mark key="^" line="264" column="13" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/lairdtech/bt/ble/vsp/FileAndFifoAndVspManager.java" timestamp="1460710909197">
         <mark key="[" line="14" column="0" />
@@ -78,6 +79,11 @@
         <mark key="]" line="16" column="28" />
         <mark key="^" line="16" column="24" />
         <mark key="." line="16" column="24" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/fragments/MQTTSettings_Fragment.java" timestamp="1461831859616">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/res/layout/clientidlist.xml" timestamp="1450879605398">
         <mark key="[" line="4" column="51" />
@@ -197,12 +203,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/fragments/BLESettings_Fragment.java" timestamp="1461829245790">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/fragments/BLESettings_Fragment.java" timestamp="1461831874537">
         <mark key="'" line="27" column="81" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="67" />
-        <mark key="." line="84" column="67" />
-        <mark key="^" line="84" column="67" />
+        <mark key="[" line="85" column="46" />
+        <mark key="]" line="85" column="46" />
+        <mark key="." line="85" column="46" />
+        <mark key="^" line="83" column="40" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/tss/cloudclient/fragments/MQTTSettings_Fragment.java" timestamp="1461156396063">
         <mark key="[" line="12" column="0" />
@@ -329,10 +335,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hex</text>
+        <text>twMessage</text>
       </register>
       <register name="-" type="4">
-        <text>hex</text>
+        <text>twMessage</text>
       </register>
       <register name="/" type="4">
         <text>imple</text>
@@ -341,31 +347,31 @@
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGhleCA9ICI0NDAwMTYwMDAwMDA1RTlGIjsK</text>
       </register>
       <register name="1" type="4">
-        <text>hex</text>
+        <text>twMessage</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sYWlyZHRlY2gubWlzYy5EYXRhTWFuaXB1bGF0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJNUVRUU2V0dGluZ3NfRnJhZ21lbnQiLHR3TWVzc2FnZSkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vKChibGVXcmFwcGVySW50ZXJmYWNlKSBnZXRBY3Rpdml0eSgpKS5zZW5kKCk7Cg==</text>
+      <register name="3" type="4">
+        <text>hex</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sYWlyZHRlY2guYnQuQmx1ZXRvb3RoQWRhcHRlcldyYXBwZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sYWlyZHRlY2gubWlzYy5EYXRhTWFuaXB1bGF0aW9uOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGV1LnRzcy5ibGUudnNwLlZpcnR1YWxTZXJpYWxQb3J0RGV2aWNlQ2FsbGJhY2s7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vKChibGVXcmFwcGVySW50ZXJmYWNlKSBnZXRBY3Rpdml0eSgpKS5zZW5kKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGV1LnRzcy5ibGUuKjsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sYWlyZHRlY2guYnQuQmx1ZXRvb3RoQWRhcHRlcldyYXBwZXI7Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGV1LnRzcy5ibGUudnNwLlZpcnR1YWxTZXJpYWxQb3J0RGV2aWNlQ2FsbGJhY2s7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGV1LnRzcy5ibGUuKjsK</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5sYWlyZHRlY2guZmlsZWhhbmRsZXIuRmlsZVdyYXBwZXI7Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>hex</text>
-      </register>
-      <register name="9" type="4">
-        <text>hex</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
