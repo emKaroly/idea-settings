@@ -11,8 +11,12 @@
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Laird Toolkit/src/com/lairdtech/bt/ble/BleBaseDeviceManager.java" timestamp="1460728187345">
         <mark key="[" line="257" column="69" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceE.java" timestamp="1461837710087">
-        <mark key="[" line="13" column="5" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceE.java" timestamp="1461838620665">
+        <mark key="'" line="16" column="38" />
+        <mark key="[" line="36" column="56" />
+        <mark key="]" line="30" column="17" />
+        <mark key="." line="30" column="17" />
+        <mark key="^" line="30" column="17" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/lairdtech/toolkit/serialdevice/SerialManagerUiCallback.java" timestamp="1460711328468">
         <mark key="[" line="10" column="62" />
@@ -48,7 +52,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/ui/CommonBtInterface.java" timestamp="1461829073889">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/ui/CommonBtInterface.java" timestamp="1461838827864">
         <mark key="[" line="7" column="38" />
         <mark key="]" line="7" column="38" />
         <mark key="^" line="7" column="38" />
@@ -62,11 +66,11 @@
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/mqtt/MQTTListener.java" timestamp="1450883979581">
         <mark key="[" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceExt.java" timestamp="1461837688865">
-        <mark key="[" line="259" column="0" />
-        <mark key="]" line="284" column="5" />
-        <mark key="." line="264" column="13" />
-        <mark key="^" line="264" column="13" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceExt.java" timestamp="1461838717288">
+        <mark key="[" line="255" column="5" />
+        <mark key="]" line="281" column="5" />
+        <mark key="." line="261" column="13" />
+        <mark key="^" line="261" column="13" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/lairdtech/bt/ble/vsp/FileAndFifoAndVspManager.java" timestamp="1460710909197">
         <mark key="[" line="14" column="0" />
@@ -167,9 +171,9 @@
         <mark key="]" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/ble/SerialManager.java" timestamp="1461764204145">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/ble/SerialManager.java" timestamp="1461839140692">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="97" />
         <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Heart Rate BLE Demo/src/com/lairdtech/demo/heartrateble/HeartRateActivity.java" timestamp="1460463272843">
@@ -221,8 +225,11 @@
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/BluetoothAdapterHelperCallback.java" timestamp="1461230187196">
         <mark key="[" line="58" column="33" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/device/vsp/SerialManagerExt.java" timestamp="1461766774004">
-        <mark key="[" line="16" column="61" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/device/vsp/SerialManagerExt.java" timestamp="1461839301093">
+        <mark key="[" line="59" column="15" />
+        <mark key="]" line="59" column="14" />
+        <mark key="." line="59" column="14" />
+        <mark key="^" line="59" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/lairdtech/bt/ble/BleBaseDeviceManager.java" timestamp="1460710412437">
         <mark key="[" line="18" column="0" />
@@ -241,7 +248,8 @@
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/tss/lairdtech/bt/ble/BleBaseDeviceManager.java" timestamp="1460966467534">
         <mark key="[" line="249" column="71" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDevice.java" timestamp="1461761137730">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDevice.java" timestamp="1461838178464">
+        <mark key="'" line="80" column="40" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
@@ -278,12 +286,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" timestamp="1461830357566">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" timestamp="1461838791565">
         <mark key="'" line="304" column="0" />
-        <mark key="[" line="435" column="37" />
-        <mark key="]" line="457" column="27" />
-        <mark key="." line="457" column="27" />
-        <mark key="^" line="457" column="27" />
+        <mark key="[" line="365" column="0" />
+        <mark key="]" line="365" column="0" />
+        <mark key="." line="365" column="0" />
+        <mark key="^" line="437" column="27" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/fragments/MQTTSettings_Fragment.java" timestamp="1450886169395">
         <mark key="[" line="136" column="39" />
@@ -335,46 +343,48 @@
       <jump line="389" column="0" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" />
       <jump line="306" column="0" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" />
       <jump line="94" column="50" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/bt/BluetoothCommunication.java" />
+      <jump line="16" column="38" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceE.java" />
+      <jump line="80" column="40" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDevice.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBib29sZWFuIHNlbmRUb01vZHVsZShTdHJpbmcgZGF0YVRvQmVTZW5kKSB7CiAgICAgICAgaWYgKG1CbHVldG9vdGhHYXR0ICE9IG51bGwgJiYgbUNoYXJSeCAhPSBudWxsICYmIGRhdGFUb0JlU2VuZCAhPSBudWxsKSB7CgogICAgICAgICAgICAvL1dhcm5pbmcKCiAgICAgICAgICAgIC8vZGF0YVRvQmVTZW5kID0gIjQ0MDAxNjAwMDAwMDVFOUYiOwogICAgICAgICAgICBTdHJpbmdCdWlsZGVyIG91dHB1dCA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7CiAgICAgICAgICAgIGJ5dGVbXSBvdHAgPSBuZXcgYnl0ZVtkYXRhVG9CZVNlbmQubGVuZ3RoKCkgLyAyXTsKCiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgZGF0YVRvQmVTZW5kLmxlbmd0aCgpOyBpICs9IDIpIHsKICAgICAgICAgICAgICAgIFN0cmluZyBzdHIgPSBkYXRhVG9CZVNlbmQuc3Vic3RyaW5nKGksIGkgKyAyKTsKICAgICAgICAgICAgICAgIG91dHB1dC5hcHBlbmQoKGJ5dGUpIEludGVnZXIucGFyc2VJbnQoc3RyLCAxNikpOwogICAgICAgICAgICAgICAgb3RwW2kgLyAyXSA9IChieXRlKSBJbnRlZ2VyLnBhcnNlSW50KHN0ciwgMTYpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBtQ2hhclJ4LnNldFZhbHVlKG90cCk7CiAgICAgICAgICAgIC8vbUNoYXJSeC5zZXRWYWx1ZShkYXRhVG9CZVNlbmQpOwoKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJjaGFyIGRhdGEgSnVzdCBzZW5kOiIKICAgICAgICAgICAgICAgICAgICArIG1DaGFyUnguZ2V0U3RyaW5nVmFsdWUoMCkpOwoKICAgICAgICAgICAgcmV0dXJuIG1CbHVldG9vdGhHYXR0LndyaXRlQ2hhcmFjdGVyaXN0aWMobUNoYXJSeCk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9Cg==</text>
+        <text>SerialManager&quot;, &quot;VspReceive</text>
       </register>
       <register name="-" type="4">
-        <text>twMessage</text>
+        <text>SerialManager&quot;, &quot;VspReceive</text>
       </register>
       <register name="/" type="4">
         <text>imple</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBib29sZWFuIHNlbmRUb01vZHVsZShTdHJpbmcgZGF0YVRvQmVTZW5kKSB7CiAgICAgICAgaWYgKG1CbHVldG9vdGhHYXR0ICE9IG51bGwgJiYgbUNoYXJSeCAhPSBudWxsICYmIGRhdGFUb0JlU2VuZCAhPSBudWxsKSB7CgogICAgICAgICAgICAvL1dhcm5pbmcKCiAgICAgICAgICAgIC8vZGF0YVRvQmVTZW5kID0gIjQ0MDAxNjAwMDAwMDVFOUYiOwogICAgICAgICAgICBTdHJpbmdCdWlsZGVyIG91dHB1dCA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7CiAgICAgICAgICAgIGJ5dGVbXSBvdHAgPSBuZXcgYnl0ZVtkYXRhVG9CZVNlbmQubGVuZ3RoKCkgLyAyXTsKCiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgZGF0YVRvQmVTZW5kLmxlbmd0aCgpOyBpICs9IDIpIHsKICAgICAgICAgICAgICAgIFN0cmluZyBzdHIgPSBkYXRhVG9CZVNlbmQuc3Vic3RyaW5nKGksIGkgKyAyKTsKICAgICAgICAgICAgICAgIG91dHB1dC5hcHBlbmQoKGJ5dGUpIEludGVnZXIucGFyc2VJbnQoc3RyLCAxNikpOwogICAgICAgICAgICAgICAgb3RwW2kgLyAyXSA9IChieXRlKSBJbnRlZ2VyLnBhcnNlSW50KHN0ciwgMTYpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBtQ2hhclJ4LnNldFZhbHVlKG90cCk7CiAgICAgICAgICAgIC8vbUNoYXJSeC5zZXRWYWx1ZShkYXRhVG9CZVNlbmQpOwoKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJjaGFyIGRhdGEgSnVzdCBzZW5kOiIKICAgICAgICAgICAgICAgICAgICArIG1DaGFyUnguZ2V0U3RyaW5nVmFsdWUoMCkpOwoKICAgICAgICAgICAgcmV0dXJuIG1CbHVldG9vdGhHYXR0LndyaXRlQ2hhcmFjdGVyaXN0aWMobUNoYXJSeCk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9Cg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiU2VyaWFsTWFuYWdlciIsICJWc3BSZWNlaXZlZERhdGE6ICIgKyBEYXRhTWFuaXB1bGF0aW9uLmJ5dGVzVG9IZXgoY2guZ2V0VmFsdWUoKSkpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>twMessage</text>
+        <text>SerialManager&quot;, &quot;VspReceive</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJNUVRUU2V0dGluZ3NfRnJhZ21lbnQiLHR3TWVzc2FnZSkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ci8vICAgIEBPdmVycmlkZQovLyAgICBwdWJsaWMgdm9pZCBzZW5kKCkgewovLwovLwovLyAgICAgICAgU3RyaW5nIGhleCA9ICI0NDAwMTYwMDAwMDA1RTlGIjsKLy8gICAgICAgIFN0cmluZ0J1aWxkZXIgb3V0cHV0ID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKLy8gICAgICAgIGNoYXJbXSBvdHAgPSBuZXcgY2hhcltoZXgubGVuZ3RoKCkgLyAyXTsKLy8KLy8KLy8gICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgaGV4Lmxlbmd0aCgpOyBpICs9IDIpIHsKLy8gICAgICAgICAgICBTdHJpbmcgc3RyID0gaGV4LnN1YnN0cmluZyhpLCBpICsgMik7Ci8vICAgICAgICAgICAgb3V0cHV0LmFwcGVuZCgoY2hhcikgSW50ZWdlci5wYXJzZUludChzdHIsIDE2KSk7Ci8vICAgICAgICAgICAgb3RwW2kgLyAyXSA9IChjaGFyKSBJbnRlZ2VyLnBhcnNlSW50KHN0ciwgMTYpOwovLyAgICAgICAgfQovLyAgICAgICAgU3RyaW5nIHNvdHAgPSBuZXcgU3RyaW5nKG90cCk7Ci8vICAgICAgICBtU2VyaWFsTWFuYWdlci5zdGFydERhdGFUcmFuc2Zlcihzb3RwKTsKLy8gICAgICAgIExvZy5kKCJNYWluQWN0aXZpdHkiLCAiU2VuZDogIiArIG91dHB1dC50b1N0cmluZygpKTsKLy8gICAgfQoK</text>
       </register>
       <register name="3" type="4">
-        <text>hex</text>
+        <text>mCharRx</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sYWlyZHRlY2gubWlzYy5EYXRhTWFuaXB1bGF0aW9uOwo=</text>
+      <register name="4" type="4">
+        <text>mCharRx</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vKChibGVXcmFwcGVySW50ZXJmYWNlKSBnZXRBY3Rpdml0eSgpKS5zZW5kKCk7Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sYWlyZHRlY2guYnQuQmx1ZXRvb3RoQWRhcHRlcldyYXBwZXI7Cg==</text>
+      <register name="6" type="4">
+        <text>twMessage</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGV1LnRzcy5ibGUudnNwLlZpcnR1YWxTZXJpYWxQb3J0RGV2aWNlQ2FsbGJhY2s7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJNUVRUU2V0dGluZ3NfRnJhZ21lbnQiLHR3TWVzc2FnZSkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGV1LnRzcy5ibGUuKjsK</text>
+      <register name="8" type="4">
+        <text>hex</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sYWlyZHRlY2guZmlsZWhhbmRsZXIuRmlsZVdyYXBwZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sYWlyZHRlY2gubWlzYy5EYXRhTWFuaXB1bGF0aW9uOwo=</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
