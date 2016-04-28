@@ -11,6 +11,9 @@
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Laird Toolkit/src/com/lairdtech/bt/ble/BleBaseDeviceManager.java" timestamp="1460728187345">
         <mark key="[" line="257" column="69" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceE.java" timestamp="1461837710087">
+        <mark key="[" line="13" column="5" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/lairdtech/toolkit/serialdevice/SerialManagerUiCallback.java" timestamp="1460711328468">
         <mark key="[" line="10" column="62" />
       </file>
@@ -59,9 +62,9 @@
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/mqtt/MQTTListener.java" timestamp="1450883979581">
         <mark key="[" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceExt.java" timestamp="1461832206068">
-        <mark key="[" line="264" column="19" />
-        <mark key="]" line="264" column="13" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceExt.java" timestamp="1461837688865">
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="284" column="5" />
         <mark key="." line="264" column="13" />
         <mark key="^" line="264" column="13" />
       </file>
@@ -335,7 +338,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>twMessage</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBib29sZWFuIHNlbmRUb01vZHVsZShTdHJpbmcgZGF0YVRvQmVTZW5kKSB7CiAgICAgICAgaWYgKG1CbHVldG9vdGhHYXR0ICE9IG51bGwgJiYgbUNoYXJSeCAhPSBudWxsICYmIGRhdGFUb0JlU2VuZCAhPSBudWxsKSB7CgogICAgICAgICAgICAvL1dhcm5pbmcKCiAgICAgICAgICAgIC8vZGF0YVRvQmVTZW5kID0gIjQ0MDAxNjAwMDAwMDVFOUYiOwogICAgICAgICAgICBTdHJpbmdCdWlsZGVyIG91dHB1dCA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7CiAgICAgICAgICAgIGJ5dGVbXSBvdHAgPSBuZXcgYnl0ZVtkYXRhVG9CZVNlbmQubGVuZ3RoKCkgLyAyXTsKCiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgZGF0YVRvQmVTZW5kLmxlbmd0aCgpOyBpICs9IDIpIHsKICAgICAgICAgICAgICAgIFN0cmluZyBzdHIgPSBkYXRhVG9CZVNlbmQuc3Vic3RyaW5nKGksIGkgKyAyKTsKICAgICAgICAgICAgICAgIG91dHB1dC5hcHBlbmQoKGJ5dGUpIEludGVnZXIucGFyc2VJbnQoc3RyLCAxNikpOwogICAgICAgICAgICAgICAgb3RwW2kgLyAyXSA9IChieXRlKSBJbnRlZ2VyLnBhcnNlSW50KHN0ciwgMTYpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBtQ2hhclJ4LnNldFZhbHVlKG90cCk7CiAgICAgICAgICAgIC8vbUNoYXJSeC5zZXRWYWx1ZShkYXRhVG9CZVNlbmQpOwoKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJjaGFyIGRhdGEgSnVzdCBzZW5kOiIKICAgICAgICAgICAgICAgICAgICArIG1DaGFyUnguZ2V0U3RyaW5nVmFsdWUoMCkpOwoKICAgICAgICAgICAgcmV0dXJuIG1CbHVldG9vdGhHYXR0LndyaXRlQ2hhcmFjdGVyaXN0aWMobUNoYXJSeCk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>twMessage</text>
@@ -343,8 +346,8 @@
       <register name="/" type="4">
         <text>imple</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGhleCA9ICI0NDAwMTYwMDAwMDA1RTlGIjsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBib29sZWFuIHNlbmRUb01vZHVsZShTdHJpbmcgZGF0YVRvQmVTZW5kKSB7CiAgICAgICAgaWYgKG1CbHVldG9vdGhHYXR0ICE9IG51bGwgJiYgbUNoYXJSeCAhPSBudWxsICYmIGRhdGFUb0JlU2VuZCAhPSBudWxsKSB7CgogICAgICAgICAgICAvL1dhcm5pbmcKCiAgICAgICAgICAgIC8vZGF0YVRvQmVTZW5kID0gIjQ0MDAxNjAwMDAwMDVFOUYiOwogICAgICAgICAgICBTdHJpbmdCdWlsZGVyIG91dHB1dCA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7CiAgICAgICAgICAgIGJ5dGVbXSBvdHAgPSBuZXcgYnl0ZVtkYXRhVG9CZVNlbmQubGVuZ3RoKCkgLyAyXTsKCiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgZGF0YVRvQmVTZW5kLmxlbmd0aCgpOyBpICs9IDIpIHsKICAgICAgICAgICAgICAgIFN0cmluZyBzdHIgPSBkYXRhVG9CZVNlbmQuc3Vic3RyaW5nKGksIGkgKyAyKTsKICAgICAgICAgICAgICAgIG91dHB1dC5hcHBlbmQoKGJ5dGUpIEludGVnZXIucGFyc2VJbnQoc3RyLCAxNikpOwogICAgICAgICAgICAgICAgb3RwW2kgLyAyXSA9IChieXRlKSBJbnRlZ2VyLnBhcnNlSW50KHN0ciwgMTYpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBtQ2hhclJ4LnNldFZhbHVlKG90cCk7CiAgICAgICAgICAgIC8vbUNoYXJSeC5zZXRWYWx1ZShkYXRhVG9CZVNlbmQpOwoKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJjaGFyIGRhdGEgSnVzdCBzZW5kOiIKICAgICAgICAgICAgICAgICAgICArIG1DaGFyUnguZ2V0U3RyaW5nVmFsdWUoMCkpOwoKICAgICAgICAgICAgcmV0dXJuIG1CbHVldG9vdGhHYXR0LndyaXRlQ2hhcmFjdGVyaXN0aWMobUNoYXJSeCk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="4">
         <text>twMessage</text>
