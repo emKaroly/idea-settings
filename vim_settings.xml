@@ -52,8 +52,8 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/ui/CommonBtInterface.java" timestamp="1461838827864">
-        <mark key="[" line="7" column="38" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/ui/CommonBtInterface.java" timestamp="1461859156055">
+        <mark key="[" line="7" column="39" />
         <mark key="]" line="7" column="38" />
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
@@ -209,12 +209,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/fragments/BLESettings_Fragment.java" timestamp="1461858144622">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/fragments/BLESettings_Fragment.java" timestamp="1461859131279">
         <mark key="'" line="28" column="81" />
-        <mark key="[" line="111" column="37" />
-        <mark key="]" line="111" column="52" />
-        <mark key="." line="111" column="52" />
-        <mark key="^" line="111" column="52" />
+        <mark key="[" line="80" column="23" />
+        <mark key="]" line="80" column="23" />
+        <mark key="." line="80" column="23" />
+        <mark key="^" line="80" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/tss/cloudclient/fragments/MQTTSettings_Fragment.java" timestamp="1461156396063">
         <mark key="[" line="12" column="0" />
@@ -290,10 +290,10 @@
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" timestamp="1461858389529">
         <mark key="'" line="307" column="0" />
-        <mark key="[" line="449" column="87" />
-        <mark key="]" line="457" column="37" />
-        <mark key="." line="457" column="37" />
-        <mark key="^" line="457" column="37" />
+        <mark key="[" line="454" column="87" />
+        <mark key="]" line="462" column="37" />
+        <mark key="." line="462" column="37" />
+        <mark key="^" line="462" column="37" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/fragments/MQTTSettings_Fragment.java" timestamp="1450886169395">
         <mark key="[" line="136" column="39" />
