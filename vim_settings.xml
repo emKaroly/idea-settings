@@ -66,9 +66,10 @@
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/mqtt/MQTTListener.java" timestamp="1450883979581">
         <mark key="[" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceExt.java" timestamp="1461853906983">
-        <mark key="[" line="261" column="21" />
-        <mark key="^" line="257" column="54" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceExt.java" timestamp="1461855168003">
+        <mark key="[" line="262" column="0" />
+        <mark key="]" line="262" column="0" />
+        <mark key="." line="262" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/lairdtech/bt/ble/vsp/FileAndFifoAndVspManager.java" timestamp="1460710909197">
         <mark key="[" line="14" column="0" />
@@ -343,7 +344,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGhleCA9ICI0NDAwMTYwMDAwMDA1RTlGIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>MQTTSettings_Fragment</text>
@@ -354,32 +355,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGhleCA9ICI0NDAwMTYwMDAwMDA1RTlGIjsK</text>
       </register>
-      <register name="1" type="4">
-        <text>MQTTSettings_Fragment</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>String</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL21SeEJ1ZmZlci53cml0ZShjaC5nZXRTdHJpbmdWYWx1ZSgwKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFUb0JlU2VuZCA9IGRhdGFUb0JlU2VuZCArICIwIjsK</text>
       </register>
-      <register name="4" type="4">
-        <text>SerialManager&quot;, &quot;VspReceive</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYoZGF0YVRvQmVTZW5kLmxlbmd0aCgpICUyICE9IDApewo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ci8vICAgIEBPdmVycmlkZQovLyAgICBwdWJsaWMgdm9pZCBzZW5kKCkgewovLwovLwovLyAgICAgICAgU3RyaW5nIGhleCA9ICI0NDAwMTYwMDAwMDA1RTlGIjsKLy8gICAgICAgIFN0cmluZ0J1aWxkZXIgb3V0cHV0ID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKLy8gICAgICAgIGNoYXJbXSBvdHAgPSBuZXcgY2hhcltoZXgubGVuZ3RoKCkgLyAyXTsKLy8KLy8KLy8gICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgaGV4Lmxlbmd0aCgpOyBpICs9IDIpIHsKLy8gICAgICAgICAgICBTdHJpbmcgc3RyID0gaGV4LnN1YnN0cmluZyhpLCBpICsgMik7Ci8vICAgICAgICAgICAgb3V0cHV0LmFwcGVuZCgoY2hhcikgSW50ZWdlci5wYXJzZUludChzdHIsIDE2KSk7Ci8vICAgICAgICAgICAgb3RwW2kgLyAyXSA9IChjaGFyKSBJbnRlZ2VyLnBhcnNlSW50KHN0ciwgMTYpOwovLyAgICAgICAgfQovLyAgICAgICAgU3RyaW5nIHNvdHAgPSBuZXcgU3RyaW5nKG90cCk7Ci8vICAgICAgICBtU2VyaWFsTWFuYWdlci5zdGFydERhdGFUcmFuc2Zlcihzb3RwKTsKLy8gICAgICAgIExvZy5kKCJNYWluQWN0aXZpdHkiLCAiU2VuZDogIiArIG91dHB1dC50b1N0cmluZygpKTsKLy8gICAgfQoK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9XYXJuaW5nCg==</text>
       </register>
       <register name="6" type="4">
-        <text>mCharRx</text>
+        <text>MQTTSettings_Fragment</text>
       </register>
       <register name="7" type="4">
-        <text>mCharRx</text>
+        <text>String</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICAvL21SeEJ1ZmZlci53cml0ZShjaC5nZXRTdHJpbmdWYWx1ZSgwKSk7Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>twMessage</text>
+        <text>SerialManager&quot;, &quot;VspReceive</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
