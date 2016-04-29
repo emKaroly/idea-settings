@@ -95,6 +95,9 @@
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/BleBaseDeviceManager.java" timestamp="1461913854494">
+        <mark key="'" line="75" column="26" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/res/layout/clientidlist.xml" timestamp="1450879605398">
         <mark key="[" line="4" column="51" />
       </file>
@@ -319,6 +322,9 @@
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/tss/cloudclient/settings/ClientSettings.java" timestamp="1450870319060">
         <mark key="[" line="9" column="26" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/ui/IBleBaseActivityUiCallback.java" timestamp="1461914084402">
+        <mark key="'" line="10" column="24" />
+      </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/fragments/BLESettings_Fragment.java" timestamp="1460639627771">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="75" />
@@ -352,6 +358,8 @@
       <jump line="16" column="38" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceE.java" />
       <jump line="80" column="40" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDevice.java" />
       <jump line="85" column="31" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/bt/BluetoothCommunication.java" />
+      <jump line="75" column="26" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/BleBaseDeviceManager.java" />
+      <jump line="10" column="24" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/ui/IBleBaseActivityUiCallback.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
