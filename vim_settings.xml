@@ -52,6 +52,10 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/Test/and_java_Laird Toolkit/src/com/lairdtech/lairdtoolkit/btc/sppdevice/SPPActivity.java" timestamp="1461860559112">
+        <mark key="[" line="172" column="20" />
+        <mark key="]" line="180" column="22" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/ui/CommonBtInterface.java" timestamp="1461859156055">
         <mark key="[" line="7" column="39" />
         <mark key="]" line="7" column="38" />
@@ -66,10 +70,10 @@
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/mqtt/MQTTListener.java" timestamp="1450883979581">
         <mark key="[" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceExt.java" timestamp="1461858171963">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="63" />
-        <mark key="." line="262" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceExt.java" timestamp="1461912453522">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/lairdtech/bt/ble/vsp/FileAndFifoAndVspManager.java" timestamp="1460710909197">
         <mark key="[" line="14" column="0" />
@@ -118,12 +122,12 @@
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/res/layout/blesettings_layout.xml" timestamp="1459937211740">
         <mark key="[" line="14" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/bt/BluetoothCommunication.java" timestamp="1461857658264">
-        <mark key="'" line="94" column="50" />
-        <mark key="[" line="16" column="39" />
-        <mark key="]" line="71" column="89" />
-        <mark key="^" line="71" column="89" />
-        <mark key="." line="71" column="89" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/bt/BluetoothCommunication.java" timestamp="1461912548831">
+        <mark key="'" line="94" column="31" />
+        <mark key="[" line="37" column="10" />
+        <mark key="]" line="37" column="7" />
+        <mark key="." line="37" column="7" />
+        <mark key="^" line="37" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/tss/cloudclient/settings/MQTTSettings.java" timestamp="1450886473181">
         <mark key="[" line="22" column="70" />
@@ -224,8 +228,11 @@
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/BluetoothAdapterHelperCallback.java" timestamp="1461230187196">
         <mark key="[" line="58" column="33" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/device/vsp/SerialManagerExt.java" timestamp="1461848944203">
-        <mark key="[" line="60" column="68" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/device/vsp/SerialManagerExt.java" timestamp="1461868718292">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="51" />
+        <mark key="^" line="52" column="50" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/lairdtech/bt/ble/BleBaseDeviceManager.java" timestamp="1460710412437">
         <mark key="[" line="18" column="0" />
@@ -288,12 +295,9 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" timestamp="1461858389529">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" timestamp="1461866035299">
         <mark key="'" line="307" column="0" />
-        <mark key="[" line="454" column="87" />
-        <mark key="]" line="462" column="37" />
-        <mark key="." line="462" column="37" />
-        <mark key="^" line="462" column="37" />
+        <mark key="[" line="452" column="46" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/fragments/MQTTSettings_Fragment.java" timestamp="1450886169395">
         <mark key="[" line="136" column="39" />
@@ -347,55 +351,56 @@
       <jump line="94" column="50" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/bt/BluetoothCommunication.java" />
       <jump line="16" column="38" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceE.java" />
       <jump line="80" column="40" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDevice.java" />
+      <jump line="85" column="31" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/bt/BluetoothCommunication.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIERlZmF1bHQgd2FzIDE1Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dataReceived</text>
       </register>
       <register name="/" type="4">
-        <text>imple</text>
+        <text>onUiConn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCJMb2dNZXNzYWdlIG5vdCBudWxsOiAiICsgbXNnKTsK</text>
+        <text encoding="base64">ICAgICAgICAvL1dhcm5pbmcgQ2hhbmdlIGNvbXBhcmVkIHRvIG9yaWdpbmFsIGNsYXNzCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAqIERlZmF1bHQgd2FzIDE1Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>y&quot;;</text>
-      </register>
-      <register name="3" type="4">
-        <text>VirtualSerialPortDeExt</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJCTEVTZXR0aW5nc19GcmFnbWVudCIsIHRlTWVzc2FnZS5nZXRUZXh0KCkudG9TdHJpbmcoKSk7Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>VirtualSerialPortDeExt</text>
-      </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiU2VyaWFsTWFuYWdlckV4dCIsICJWc3BSZWNlaXZlZERhdGE6ICIgKyBEYXRhTWFuaXB1bGF0aW9uLmJ5dGVzVG9IZXgoY2guZ2V0VmFsdWUoKSkpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZGF0YS5sZW5ndGgoKSA+IDApIHsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH1lbHNlewo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIiI7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFUb0JlU2VuZCA9IGRhdGFUb0JlU2VuZCArICIwIjsK</text>
+      <register name="8" type="4">
+        <text>dataReceived</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoZGF0YVRvQmVTZW5kLmxlbmd0aCgpICUyICE9IDApewo=</text>
+      <register name="9" type="4">
+        <text>constructPacket</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
       </register>
     </registers>
     <search>
-      <last-search>imple</last-search>
+      <last-search>onUiConn</last-search>
       <last-offset />
-      <last-pattern>imple</last-pattern>
+      <last-pattern>onUiConn</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -405,6 +410,8 @@
         <entry>test</entry>
         <entry>fdDia</entry>
         <entry>imple</entry>
+        <entry>uico</entry>
+        <entry>onUiConn</entry>
       </history-search>
       <history-cmd>
         <entry>N</entry>
