@@ -125,12 +125,12 @@
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/res/layout/blesettings_layout.xml" timestamp="1459937211740">
         <mark key="[" line="14" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/bt/BluetoothCommunication.java" timestamp="1461912548831">
-        <mark key="'" line="94" column="31" />
-        <mark key="[" line="37" column="10" />
-        <mark key="]" line="37" column="7" />
-        <mark key="." line="37" column="7" />
-        <mark key="^" line="37" column="7" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/bt/BluetoothCommunication.java" timestamp="1461917499284">
+        <mark key="'" line="95" column="31" />
+        <mark key="[" line="86" column="6" />
+        <mark key="]" line="86" column="6" />
+        <mark key="." line="86" column="6" />
+        <mark key="^" line="48" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/tss/cloudclient/settings/MQTTSettings.java" timestamp="1450886473181">
         <mark key="[" line="22" column="70" />
@@ -362,11 +362,11 @@
       <jump line="10" column="24" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/ui/IBleBaseActivityUiCallback.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIERlZmF1bHQgd2FzIDE1Cg==</text>
+      <register name="&quot;" type="4">
+        <text>SerialManagerUiCallbacks</text>
       </register>
       <register name="-" type="4">
-        <text>dataReceived</text>
+        <text>SerialManagerUiCallbacks</text>
       </register>
       <register name="/" type="4">
         <text>onUiConn</text>
@@ -374,32 +374,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvL1dhcm5pbmcgQ2hhbmdlIGNvbXBhcmVkIHRvIG9yaWdpbmFsIGNsYXNzCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIERlZmF1bHQgd2FzIDE1Cg==</text>
+      <register name="1" type="4">
+        <text>SerialManagerUiCallbacks</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIERlZmF1bHQgd2FzIDE1Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCgiU2VyaWFsTWFuYWdlckV4dCIsICJWc3BSZWNlaXZlZERhdGE6ICIgKyBEYXRhTWFuaXB1bGF0aW9uLmJ5dGVzVG9IZXgoY2guZ2V0VmFsdWUoKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGF0YS5sZW5ndGgoKSA+IDApIHsK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiU2VyaWFsTWFuYWdlckV4dCIsICJWc3BSZWNlaXZlZERhdGE6ICIgKyBEYXRhTWFuaXB1bGF0aW9uLmJ5dGVzVG9IZXgoY2guZ2V0VmFsdWUoKSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZGF0YS5sZW5ndGgoKSA+IDApIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH1lbHNlewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIH1lbHNlewo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gIiI7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>dataReceived</text>
-      </register>
       <register name="9" type="4">
-        <text>constructPacket</text>
+        <text>dataReceived</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
