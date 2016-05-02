@@ -291,8 +291,9 @@
         <mark key="^" line="12" column="24" />
         <mark key="." line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/CoreWrapper.cpp" timestamp="1461830221874">
-        <mark key="[" line="2" column="16" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/CoreWrapper.cpp" timestamp="1462202127408">
+        <mark key="[" line="8" column="0" />
+        <mark key="." line="8" column="1" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/devices/SerialManagerUiCallback.java" timestamp="1461682124394">
         <mark key="[" line="10" column="0" />
@@ -368,8 +369,8 @@
       <jump line="10" column="24" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/ui/IBleBaseActivityUiCallback.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I0FQUF9BQkkgOj0gYWxsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Sk5JRVhQT1JUIGpzdHJpbmcgSk5JQ0FMTCBKYXZhX2NvbV90c3NjbG91ZGNsaWVudF9hY3Rpdml0eV9NYWluQWN0aXZpdHlfY29uY2F0ZW5lTXlTdHJpbmdXaXRoQ3BwU3RyaW5nKEpOSUVudiogZW52LCBqb2JqZWN0IHRoaXosIGpzdHJpbmcgbXlTdHJpbmcpIHsKICAgIHJldHVybiBlbnYtPk5ld1N0cmluZ1VURihjb25jYXRlbmVNeVN0cmluZ1dpdGhDcHBTdHJpbmcoZW52LT5HZXRTdHJpbmdVVEZDaGFycyhteVN0cmluZywgMCkpKTsKfQ==</text>
       </register>
       <register name="-" type="4">
         <text>SerialManagerUiCallbacks</text>
@@ -377,8 +378,8 @@
       <register name="/" type="4">
         <text>onUiConn</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">I0FQUF9BQkkgOj0gYWxsCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">Sk5JRVhQT1JUIGpzdHJpbmcgSk5JQ0FMTCBKYXZhX2NvbV90c3NjbG91ZGNsaWVudF9hY3Rpdml0eV9NYWluQWN0aXZpdHlfY29uY2F0ZW5lTXlTdHJpbmdXaXRoQ3BwU3RyaW5nKEpOSUVudiogZW52LCBqb2JqZWN0IHRoaXosIGpzdHJpbmcgbXlTdHJpbmcpIHsKICAgIHJldHVybiBlbnYtPk5ld1N0cmluZ1VURihjb25jYXRlbmVNeVN0cmluZ1dpdGhDcHBTdHJpbmcoZW52LT5HZXRTdHJpbmdVVEZDaGFycyhteVN0cmluZywgMCkpKTsKfQ==</text>
       </register>
       <register name="1" type="4">
         <text>SerialManagerUiCallbacks</text>
