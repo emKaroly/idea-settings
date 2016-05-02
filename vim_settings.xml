@@ -237,8 +237,8 @@
         <mark key="^" line="12" column="24" />
         <mark key="." line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/CoreWrapper.cpp" timestamp="1462204011535">
-        <mark key="[" line="3" column="20" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/CoreWrapper.cpp" timestamp="1462205592708">
+        <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="44" />
         <mark key="." line="3" column="44" />
         <mark key="^" line="3" column="44" />
@@ -283,11 +283,10 @@
         <mark key="^" line="229" column="64" />
         <mark key="." line="230" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/Android.mk" timestamp="1462203942381">
-        <mark key="[" line="15" column="39" />
-        <mark key="]" line="15" column="68" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/Android.mk" timestamp="1462206724968">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -309,7 +308,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uLy4uL1Rlc3QvYW5kX2phdmFfQ29yZUFQSVRFU1QvY29yZS5oIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>SerialManagerUiCallbacks</text>
@@ -318,38 +317,34 @@
         <text>onUiConn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uLy4uL1Rlc3QvYW5kX2phdmFfQ29yZUFQSVRFU1QvY29yZS5oIgo=</text>
+        <text encoding="base64">TE9DQUxfQ19JTkNMVURFUyA6PSAkKExPQ0FMX1BBVEgpLi4vLi4vVFNTQ29yZUFQSS9UU1NDb3JlQVBJLwo=</text>
       </register>
-      <register name="1" type="8">
-        <text>#
-#
-#
-#
-#</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I0xPQ0FMX1NSQ19GSUxFUyArPSAuLi8uLi9UU1NDb3JlQVBJL1RTU0NvcmVBUEkvY29yZWFwaS5jcHAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBlbnYtPk5ld1N0cmluZ1VURihjb25jYXRlbmVNeVN0cmluZ1dpdGhDcHBTdHJpbmcoZW52LT5HZXRTdHJpbmdVVEZDaGFycyhteVN0cmluZywgMCkpKTsK</text>
+        <text encoding="base64">TE9DQUxfUEFUSCA6PSAkKGNhbGwgbXktZGlyKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>SerialManagerUiCallbacks</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIERlZmF1bHQgd2FzIDE1Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCgiU2VyaWFsTWFuYWdlckV4dCIsICJWc3BSZWNlaXZlZERhdGE6ICIgKyBEYXRhTWFuaXB1bGF0aW9uLmJ5dGVzVG9IZXgoY2guZ2V0VmFsdWUoKSkpOwo=</text>
+        <text encoding="base64">IyMjTE9DQUxfTU9EVUxFICAgIDo9IEhlbGxvQ3BwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGF0YS5sZW5ndGgoKSA+IDApIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">IyMjTE9DQUxfU1JDX0ZJTEVTICs9IC4uLy4uLy4uL1Rlc3QvYW5kX2phdmFfQ29yZUFQSVRFU1QvY29yZS5jcHAK</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
