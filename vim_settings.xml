@@ -8,9 +8,6 @@
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Laird Toolkit/src/com/lairdtech/bt/ble/BleBaseDeviceManager.java" timestamp="1460728187345">
-        <mark key="[" line="257" column="69" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceE.java" timestamp="1461838620665">
         <mark key="'" line="16" column="38" />
         <mark key="[" line="36" column="56" />
@@ -18,35 +15,17 @@
         <mark key="." line="30" column="17" />
         <mark key="^" line="30" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/lairdtech/toolkit/serialdevice/SerialManagerUiCallback.java" timestamp="1460711328468">
-        <mark key="[" line="10" column="62" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/Application.mk" timestamp="1461932079308">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="15" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/jni/Android.mk" timestamp="1459776828583">
-        <mark key="[" line="6" column="39" />
-      </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/ble/BleBaseDeviceManager.java" timestamp="1460558747286">
         <mark key="[" line="367" column="39" />
         <mark key="]" line="367" column="39" />
         <mark key="^" line="367" column="39" />
         <mark key="." line="367" column="39" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/AndroidManifest.xml" timestamp="1461156210458">
-        <mark key="[" line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/lairdtech/toolkit/ListFoundDevicesHandler.java" timestamp="1460712034543">
-        <mark key="[" line="116" column="45" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/lairdtech/toolkit/serialdevice/SerialManager.java" timestamp="1460711257534">
-        <mark key="[" line="13" column="55" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Laird Toolkit/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDevice.java" timestamp="1460630725900">
-        <mark key="[" line="289" column="9" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/tss/api/bluetooth/lairdtech/ui/ListFoundDevicesHandler.java" timestamp="1461156424940">
         <mark key="[" line="19" column="0" />
@@ -73,9 +52,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/mqtt/MQTTListener.java" timestamp="1450883979581">
-        <mark key="[" line="9" column="17" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceExt.java" timestamp="1461912453522">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
@@ -86,9 +62,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="94" column="21" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/tss/cloudclient/fragments/BLESettings_Fragment.java" timestamp="1461156285631">
-        <mark key="[" line="10" column="25" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/tss/cloudclient/fragments/Main_Fragment.java" timestamp="1461156381403">
         <mark key="[" line="16" column="0" />
@@ -103,9 +76,6 @@
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/BleBaseDeviceManager.java" timestamp="1461913854494">
         <mark key="'" line="75" column="26" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/res/layout/clientidlist.xml" timestamp="1450879605398">
-        <mark key="[" line="4" column="51" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/fragments/Main_Fragment.java" timestamp="1459863163760">
         <mark key="[" line="32" column="0" />
@@ -128,9 +98,6 @@
         <mark key="]" line="17" column="28" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/res/layout/blesettings_layout.xml" timestamp="1459937211740">
-        <mark key="[" line="14" column="41" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/bt/BluetoothCommunication.java" timestamp="1461917499284">
         <mark key="'" line="95" column="31" />
         <mark key="[" line="86" column="6" />
@@ -143,9 +110,6 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
         <mark key="^" line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/BluetoothAdapterHelper.java" timestamp="1461245361865">
-        <mark key="[" line="75" column="37" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/res/values/strings.xml" timestamp="1460713267306">
         <mark key="[" line="6" column="51" />
@@ -163,9 +127,6 @@
         <mark key="]" line="11" column="62" />
         <mark key="." line="11" column="43" />
         <mark key="^" line="11" column="41" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/ui/BluetoothAdapterHelperInterface.java" timestamp="1461244869461">
-        <mark key="[" line="7" column="50" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/ui/commonBtInterface.java" timestamp="1461664576893">
         <mark key="[" line="5" column="18" />
@@ -192,9 +153,6 @@
         <mark key="[" line="308" column="0" />
         <mark key="]" line="308" column="51" />
         <mark key="." line="268" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/ui/FoundDeviceDialogCallback.java" timestamp="1461235171143">
-        <mark key="[" line="11" column="97" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/ble/SerialManagerUiCallback.java" timestamp="1460559549953">
         <mark key="[" line="10" column="32" />
@@ -234,9 +192,6 @@
         <mark key="]" line="12" column="28" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/BluetoothAdapterHelperCallback.java" timestamp="1461230187196">
-        <mark key="[" line="58" column="33" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/device/vsp/SerialManagerExt.java" timestamp="1461868718292">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="51" />
@@ -247,9 +202,6 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/tss/cloudclient/activities/MainActivity.java" timestamp="1461156093295">
-        <mark key="[" line="15" column="27" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/ble/vsp/VirtualSerialPortDevice.java" timestamp="1461854262648">
         <mark key="[" line="266" column="0" />
@@ -262,9 +214,6 @@
         <mark key="]" line="6" column="29" />
         <mark key="^" line="6" column="29" />
         <mark key="." line="6" column="29" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/tss/lairdtech/bt/ble/BleBaseDeviceManager.java" timestamp="1460966467534">
-        <mark key="[" line="249" column="71" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDevice.java" timestamp="1461838178464">
         <mark key="'" line="80" column="40" />
@@ -282,18 +231,17 @@
         <mark key="]" line="300" column="0" />
         <mark key="." line="300" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1461259094404">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/ble/vsp/FileAndFifoAndVspManager.java" timestamp="1460539915011">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="57" />
         <mark key="^" line="12" column="24" />
         <mark key="." line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/CoreWrapper.cpp" timestamp="1462202127408">
-        <mark key="[" line="8" column="0" />
-        <mark key="." line="8" column="1" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/CoreWrapper.cpp" timestamp="1462204011535">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="44" />
+        <mark key="." line="3" column="44" />
+        <mark key="^" line="3" column="44" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/devices/SerialManagerUiCallback.java" timestamp="1461682124394">
         <mark key="[" line="10" column="0" />
@@ -314,20 +262,11 @@
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/mqtt/MQTTCallBack.java" timestamp="1450883900757">
-        <mark key="[" line="64" column="4" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/lairdtech/toolkit/sppdevice/SPPManager.java" timestamp="1460711378553">
-        <mark key="[" line="5" column="58" />
-      </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/mqtt/MQTTClient.java" timestamp="1450885018820">
         <mark key="[" line="32" column="30" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/tss/cloudclient/settings/ClientSettings.java" timestamp="1450870319060">
-        <mark key="[" line="9" column="26" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/ui/IBleBaseActivityUiCallback.java" timestamp="1461914084402">
         <mark key="'" line="10" column="24" />
@@ -344,11 +283,11 @@
         <mark key="^" line="229" column="64" />
         <mark key="." line="230" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/Android.mk" timestamp="1461830138365">
-        <mark key="[" line="6" column="19" />
-      </file>
-      <file name="/fragment.java" timestamp="1461767192247">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/Android.mk" timestamp="1462203942381">
+        <mark key="[" line="15" column="39" />
+        <mark key="]" line="15" column="68" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -369,8 +308,8 @@
       <jump line="10" column="24" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/ui/IBleBaseActivityUiCallback.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Sk5JRVhQT1JUIGpzdHJpbmcgSk5JQ0FMTCBKYXZhX2NvbV90c3NjbG91ZGNsaWVudF9hY3Rpdml0eV9NYWluQWN0aXZpdHlfY29uY2F0ZW5lTXlTdHJpbmdXaXRoQ3BwU3RyaW5nKEpOSUVudiogZW52LCBqb2JqZWN0IHRoaXosIGpzdHJpbmcgbXlTdHJpbmcpIHsKICAgIHJldHVybiBlbnYtPk5ld1N0cmluZ1VURihjb25jYXRlbmVNeVN0cmluZ1dpdGhDcHBTdHJpbmcoZW52LT5HZXRTdHJpbmdVVEZDaGFycyhteVN0cmluZywgMCkpKTsKfQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uLy4uL1Rlc3QvYW5kX2phdmFfQ29yZUFQSVRFU1QvY29yZS5oIgo=</text>
       </register>
       <register name="-" type="4">
         <text>SerialManagerUiCallbacks</text>
@@ -378,35 +317,39 @@
       <register name="/" type="4">
         <text>onUiConn</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Sk5JRVhQT1JUIGpzdHJpbmcgSk5JQ0FMTCBKYXZhX2NvbV90c3NjbG91ZGNsaWVudF9hY3Rpdml0eV9NYWluQWN0aXZpdHlfY29uY2F0ZW5lTXlTdHJpbmdXaXRoQ3BwU3RyaW5nKEpOSUVudiogZW52LCBqb2JqZWN0IHRoaXosIGpzdHJpbmcgbXlTdHJpbmcpIHsKICAgIHJldHVybiBlbnYtPk5ld1N0cmluZ1VURihjb25jYXRlbmVNeVN0cmluZ1dpdGhDcHBTdHJpbmcoZW52LT5HZXRTdHJpbmdVVEZDaGFycyhteVN0cmluZywgMCkpKTsKfQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uLy4uL1Rlc3QvYW5kX2phdmFfQ29yZUFQSVRFU1QvY29yZS5oIgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>SerialManagerUiCallbacks</text>
+      <register name="1" type="8">
+        <text>#
+#
+#
+#
+#</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIERlZmF1bHQgd2FzIDE1Cg==</text>
+        <text encoding="base64">I0xPQ0FMX1NSQ19GSUxFUyArPSAuLi8uLi9UU1NDb3JlQVBJL1RTU0NvcmVBUEkvY29yZWFwaS5jcHAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBlbnYtPk5ld1N0cmluZ1VURihjb25jYXRlbmVNeVN0cmluZ1dpdGhDcHBTdHJpbmcoZW52LT5HZXRTdHJpbmdVVEZDaGFycyhteVN0cmluZywgMCkpKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCgiU2VyaWFsTWFuYWdlckV4dCIsICJWc3BSZWNlaXZlZERhdGE6ICIgKyBEYXRhTWFuaXB1bGF0aW9uLmJ5dGVzVG9IZXgoY2guZ2V0VmFsdWUoKSkpOwo=</text>
+      <register name="4" type="4">
+        <text>SerialManagerUiCallbacks</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGF0YS5sZW5ndGgoKSA+IDApIHsK</text>
+        <text encoding="base64">ICAgICAqIERlZmF1bHQgd2FzIDE1Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH1lbHNlewo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiU2VyaWFsTWFuYWdlckV4dCIsICJWc3BSZWNlaXZlZERhdGE6ICIgKyBEYXRhTWFuaXB1bGF0aW9uLmJ5dGVzVG9IZXgoY2guZ2V0VmFsdWUoKSkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZGF0YS5sZW5ndGgoKSA+IDApIHsK</text>
       </register>
-      <register name="9" type="4">
-        <text>dataReceived</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
