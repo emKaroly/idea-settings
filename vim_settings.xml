@@ -237,10 +237,9 @@
         <mark key="^" line="12" column="24" />
         <mark key="." line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/CoreWrapper.cpp" timestamp="1462260235630">
-        <mark key="[" line="13" column="1" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/CoreWrapper.cpp" timestamp="1462263042264">
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/devices/SerialManagerUiCallback.java" timestamp="1461682124394">
         <mark key="[" line="10" column="0" />
@@ -252,11 +251,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" timestamp="1462259008521">
-        <mark key="'" line="313" column="0" />
-        <mark key="[" line="72" column="39" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" timestamp="1462263284770">
+        <mark key="'" line="314" column="0" />
+        <mark key="[" line="451" column="21" />
+        <mark key="]" line="67" column="24" />
+        <mark key="." line="67" column="24" />
+        <mark key="^" line="67" column="24" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/fragments/MQTTSettings_Fragment.java" timestamp="1450886169395">
         <mark key="[" line="136" column="39" />
@@ -309,7 +309,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbmF0aXZlIHZvaWQgdGVzdEZ1bmN0aW9uKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>coreAPI</text>
@@ -321,31 +321,36 @@
         <text encoding="base64">ZXh0ZXJuICJDIiAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbmF0aXZlIHZvaWQgdGVzdEZ1bmN0aW9uKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXh0ZXJuICJDIgo=</text>
+        <text encoding="base64">Ly8jaW5jbHVkZSAiLi4vLi4vLi4vVGVzdC9hbmRfamF2YV9Db3JlQVBJVEVTVC9jb3JlLmgiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbmF0aXZlIHZvaWQgdGVzdEZ1bmN0aW9uKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgcmV0dXJuIGVudi0+TmV3U3RyaW5nVVRGKGNvbmNhdGVuZU15U3RyaW5nV2l0aENwcFN0cmluZyhlbnYtPkdldFN0cmluZ1VURkNoYXJzKG15U3RyaW5nLCAwKSkpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>coreAPI</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly9KTklFWFBPUlQganN0cmluZyBKTklDQUxMIEphdmFfY29tX3Rzc2Nsb3VkY2xpZW50X2FjdGl2aXR5X01haW5BY3Rpdml0eV9jb25jYXRlbmVNeVN0cmluZ1dpdGhDcHBTdHJpbmcoSk5JRW52KiBlbnYsIGpvYmplY3QgdGhpeiwganN0cmluZyBteVN0cmluZykgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">L1VzZXJzL0t5bGUvUXQ1LjUuMC81LjUvYW5kcm9pZF9hcm12Ny9pbmNsdWRlL1F0Q29yZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">TE9DQUxfRVhQT1JUX0NfSU5DTFVERVMgOj0gL1VzZXJzL0t5bGUvUXQ1LjUuMC81LjUvYW5kcm9pZF9hcm12Ny9pbmNsdWRlIFwK</text>
+      <register name="8" type="4">
+        <text>JNIEXPORT void JNICALL
+Java_com_tsscloudclient_activity_MainActivity_testFunction
+(JNIEnv* env, jobject thiz)
+{
+    urmsp_Test();
+}</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
