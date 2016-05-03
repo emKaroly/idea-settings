@@ -237,11 +237,10 @@
         <mark key="^" line="12" column="24" />
         <mark key="." line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/CoreWrapper.cpp" timestamp="1462257970957">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="3" column="44" />
-        <mark key="." line="3" column="44" />
-        <mark key="^" line="3" column="44" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/CoreWrapper.cpp" timestamp="1462260235630">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/devices/SerialManagerUiCallback.java" timestamp="1461682124394">
         <mark key="[" line="10" column="0" />
@@ -310,7 +309,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbmF0aXZlIHZvaWQgdGVzdEZ1bmN0aW9uKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>coreAPI</text>
@@ -319,34 +318,34 @@
         <text>onUiConn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbmF0aXZlIHZvaWQgdGVzdEZ1bmN0aW9uKCk7Cg==</text>
+        <text encoding="base64">ZXh0ZXJuICJDIiAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbmF0aXZlIHZvaWQgdGVzdEZ1bmN0aW9uKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXh0ZXJuICJDIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbmF0aXZlIHZvaWQgdGVzdEZ1bmN0aW9uKCk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>coreAPI</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">L1VzZXJzL0t5bGUvUXQ1LjUuMC81LjUvYW5kcm9pZF9hcm12Ny9pbmNsdWRlL1F0Q29yZQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">TE9DQUxfRVhQT1JUX0NfSU5DTFVERVMgOj0gL1VzZXJzL0t5bGUvUXQ1LjUuMC81LjUvYW5kcm9pZF9hcm12Ny9pbmNsdWRlIFwK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CkxPQ0FMX1NSQ19GSUxFUyA6PSBcCiAgICAkKHN1YnN0ICQoTE9DQUxfUEFUSCkvLCwgXAogICAgJCh3aWxkY2FyZCAkKExPQ0FMX1BBVEgpLyouY3BwKSkKTE9DQUxfTERMSUJTIDo9IC1sbSAtbGxvZwpMT0NBTF9TSEFSRURfTElCUkFSSUVTIDo9IGJveDJELXByZWJ1aWx0CmluY2x1ZGUgJChCVUlMRF9TSEFSRURfTElCUkFSWSk=</text>
+      <register name="6" type="4">
+        <text>coreAPI</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">L1VzZXJzL0t5bGUvUXQ1LjUuMC81LjUvYW5kcm9pZF9hcm12Ny9pbmNsdWRlL1F0Q29yZQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">TE9DQUxfRVhQT1JUX0NfSU5DTFVERVMgOj0gL1VzZXJzL0t5bGUvUXQ1LjUuMC81LjUvYW5kcm9pZF9hcm12Ny9pbmNsdWRlIFwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TE9DQUxfU0hBUkVEX0xJQlJBUklFUyA6PSBRdDVDb3JlLXByZWJ1aWx0CmluY2x1ZGUgJChCVUlMRF9TSEFSRURfTElCUkFSWSkKCgpMT0NBTF9TUkNfRklMRVMgOj0gXAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
