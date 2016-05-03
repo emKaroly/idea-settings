@@ -237,9 +237,10 @@
         <mark key="^" line="12" column="24" />
         <mark key="." line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/CoreWrapper.cpp" timestamp="1462263042264">
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/CoreWrapper.cpp" timestamp="1462264820840">
+        <mark key="[" line="5" column="57" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/devices/SerialManagerUiCallback.java" timestamp="1461682124394">
         <mark key="[" line="10" column="0" />
@@ -251,17 +252,22 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" timestamp="1462263284770">
-        <mark key="'" line="314" column="0" />
-        <mark key="[" line="451" column="21" />
-        <mark key="]" line="67" column="24" />
-        <mark key="." line="67" column="24" />
-        <mark key="^" line="67" column="24" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" timestamp="1462264362385">
+        <mark key="'" line="315" column="0" />
+        <mark key="[" line="453" column="53" />
+        <mark key="]" line="453" column="59" />
+        <mark key="." line="453" column="0" />
+        <mark key="^" line="452" column="29" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/fragments/MQTTSettings_Fragment.java" timestamp="1450886169395">
         <mark key="[" line="136" column="39" />
         <mark key="]" line="138" column="0" />
         <mark key="." line="138" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/CoreWrapperTest.cpp" timestamp="1462264806410">
+        <mark key="[" line="6" column="55" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/mqtt/MQTTClient.java" timestamp="1450885018820">
         <mark key="[" line="32" column="30" />
@@ -284,8 +290,8 @@
         <mark key="^" line="229" column="64" />
         <mark key="." line="230" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/Android.mk" timestamp="1462258884507">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/Android.mk" timestamp="1462264073705">
+        <mark key="[" line="21" column="31" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
@@ -309,7 +315,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbmF0aXZlIHZvaWQgdGVzdEZ1bmN0aW9uKCk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
         <text>coreAPI</text>
@@ -318,39 +324,34 @@
         <text>onUiConn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXh0ZXJuICJDIiAK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiTWFpbkFjdGl2aXR5Iix0ZXN0RnVuY3Rpb24oIktrdGluYSB2ZWxrYSIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbmF0aXZlIHZvaWQgdGVzdEZ1bmN0aW9uKCk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8jaW5jbHVkZSAiLi4vLi4vLi4vVGVzdC9hbmRfamF2YV9Db3JlQVBJVEVTVC9jb3JlLmgiCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBlbnYtPk5ld1N0cmluZ1VURigia2t0aW5hIGhjIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vdXJtc3BfVGVzdCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgcmV0dXJuIGVudi0+TmV3U3RyaW5nVVRGKGNvbmNhdGVuZU15U3RyaW5nV2l0aENwcFN0cmluZyhlbnYtPkdldFN0cmluZ1VURkNoYXJzKG15U3RyaW5nLCAwKSkpOwo=</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly9KTklFWFBPUlQganN0cmluZyBKTklDQUxMIEphdmFfY29tX3Rzc2Nsb3VkY2xpZW50X2FjdGl2aXR5X01haW5BY3Rpdml0eV9jb25jYXRlbmVNeVN0cmluZ1dpdGhDcHBTdHJpbmcoSk5JRW52KiBlbnYsIGpvYmplY3QgdGhpeiwganN0cmluZyBteVN0cmluZykgewo=</text>
+        <text encoding="base64">KEpOSUVudiogZW52LCBqb2JqZWN0IHRoaXosIGpzdHJpbmcgbXlTdHJpbmcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>JNIEXPORT void JNICALL
-Java_com_tsscloudclient_activity_MainActivity_testFunction
-(JNIEnv* env, jobject thiz)
-{
-    urmsp_Test();
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">Sk5JRVhQT1JUIGpzdHJpbmcgSk5JQ0FMTCBKYXZhX2NvbV90c3NjbG91ZGNsaWVudF9hY3Rpdml0eV9NYWluQWN0aXZpdHlfdGVzdEZ1bmN0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uL1RTU0NvcmVBUEkvVFNTQ29yZUFQSS9jb3JlYXBpLmgiCg==</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
