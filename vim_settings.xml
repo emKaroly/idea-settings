@@ -290,10 +290,11 @@
         <mark key="^" line="229" column="64" />
         <mark key="." line="230" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/Android.mk" timestamp="1462264073705">
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/Android.mk" timestamp="1462281689040">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="20" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -315,10 +316,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>coreAPI</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>onUiConn</text>
@@ -327,31 +328,31 @@
         <text encoding="base64">ICAgICAgICBMb2cuZCgiTWFpbkFjdGl2aXR5Iix0ZXN0RnVuY3Rpb24oIktrdGluYSB2ZWxrYSIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">I2luY2x1ZGUgJChQUkVCVUlMVF9TSEFSRURfTElCUkFSWSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBlbnYtPk5ld1N0cmluZ1VURigia2t0aW5hIGhjIik7Cg==</text>
+        <text encoding="base64">I0xPQ0FMX01PRFVMRSA6PSBnbnVzdGxfc2hhcgojTE9DQUxfU1JDX0ZJTEVTIDo9IC9Vc2Vycy9LeWxlL0Ryb3Bib3gvUHJvamVjdHMvVFNTL1RTU0Nsb3VkQ2xpZW50X0FuZHJvaWQvam5pL2xpYnMvbGliZ251c3RsX3NoYXJlZC5zbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vdXJtc3BfVGVzdCgpOwo=</text>
+        <text encoding="base64">I0xPQ0FMX01PRFVMRSA6PSBnbnVzdGxfc2hhcgojTE9DQUxfU1JDX0ZJTEVTIDo9IC9Vc2Vycy9LeWxlL0Ryb3Bib3gvUHJvamVjdHMvVFNTL1RTU0Nsb3VkQ2xpZW50X0FuZHJvaWQvam5pL2xpYnMvbGliZ251c3RsX3NoYXJlZC5zbwojaW5jbHVkZSAkKFBSRUJVSUxUX1NIQVJFRF9MSUJSQVJZKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ewo=</text>
+      <register name="5" type="4">
+        <text>e</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">KEpOSUVudiogZW52LCBqb2JqZWN0IHRoaXosIGpzdHJpbmcgbXlTdHJpbmcpCg==</text>
+      <register name="6" type="4">
+        <text>d</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Sk5JRVhQT1JUIGpzdHJpbmcgSk5JQ0FMTCBKYXZhX2NvbV90c3NjbG91ZGNsaWVudF9hY3Rpdml0eV9NYWluQWN0aXZpdHlfdGVzdEZ1bmN0aW9uCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgJChDTEVBUl9WQVJTKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIi4uLy4uL1RTU0NvcmVBUEkvVFNTQ29yZUFQSS9jb3JlYXBpLmgiCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
