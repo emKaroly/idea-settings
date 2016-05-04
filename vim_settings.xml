@@ -15,6 +15,9 @@
         <mark key="." line="30" column="17" />
         <mark key="^" line="30" column="17" />
       </file>
+      <file name="/a.dummy" timestamp="1462365421628">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/Application.mk" timestamp="1462257535270">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="2" column="15" />
@@ -37,14 +40,18 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/CommInterface.java" timestamp="1462365682849" />
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/ui/CommonBtInterface.java" timestamp="1461859156055">
         <mark key="[" line="7" column="39" />
         <mark key="]" line="7" column="38" />
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPIWIFI.java" timestamp="1462357659259">
-        <mark key="[" line="5" column="23" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPIWIFI.java" timestamp="1462366406146">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="14" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="7" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/jni/CoreWrapper.cpp" timestamp="1459779837332">
         <mark key="[" line="6" column="57" />
@@ -93,8 +100,11 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPI.java" timestamp="1462357389507">
-        <mark key="[" line="5" column="7" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPI.java" timestamp="1462366101379">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="10" />
+        <mark key="^" line="12" column="10" />
+        <mark key="." line="12" column="10" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/res/layout/clientidpinner.xml" timestamp="1450879815137">
         <mark key="[" line="6" column="38" />
@@ -125,8 +135,11 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPIUSB.java" timestamp="1462357607647">
-        <mark key="[" line="5" column="22" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPIUSB.java" timestamp="1462366374907">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="14" />
+        <mark key="^" line="6" column="50" />
+        <mark key="." line="7" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/res/values/strings.xml" timestamp="1460713267306">
         <mark key="[" line="6" column="51" />
@@ -161,8 +174,8 @@
         <mark key="]" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPIBLE.java" timestamp="1462357678355">
-        <mark key="[" line="5" column="22" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPIBLE.java" timestamp="1462366733587">
+        <mark key="[" line="8" column="33" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/ble/SerialManager.java" timestamp="1461848917506">
         <mark key="[" line="61" column="0" />
@@ -178,6 +191,12 @@
         <mark key="[" line="10" column="32" />
         <mark key="]" line="10" column="32" />
         <mark key="." line="10" column="32" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPIBT.java" timestamp="1462366338056">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="14" />
+        <mark key="^" line="8" column="49" />
+        <mark key="." line="9" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/ble/SerialManager.java" timestamp="1460643555256">
         <mark key="[" line="69" column="94" />
@@ -316,7 +335,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="20" column="40" />
       </file>
-      <file name="/fragment.java" timestamp="1462354301301">
+      <file name="/fragment.java" timestamp="1462365426270">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -338,11 +357,11 @@
       <jump line="10" column="24" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/ui/IBleBaseActivityUiCallback.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUU1NBUElGYWN0b3J5IGFwaWYgPSBuZXcgVFNTQVBJRmFjdG9yeSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>commInterface</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>commInterface</text>
       </register>
       <register name="/" type="4">
         <text>onUiConn</text>
@@ -350,32 +369,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2cuZCgiTWFpbkFjdGl2aXR5Iix0ZXN0RnVuY3Rpb24oIktrdGluYSB2ZWxrYSIpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUU1NBUElGYWN0b3J5IGFwaWYgPSBuZXcgVFNTQVBJRmFjdG9yeSgpOwo=</text>
+      <register name="1" type="4">
+        <text>commInterface</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRzc0FwaSA9IG5ldyBUUwo=</text>
+      <register name="2" type="4">
+        <text>CommInterface commInterface</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZpbmFsIENvbW1JbnRlcmZhY2UgbUNvbW1JbnRlcmZhY2U7CgogICAgcHVibGljIFRTU0FQSUZhY3RvcnkoQ29tbUludGVyZmFjZSBjb21tSW50ZXJmYWNlKSB7CgogICAgICAgIHRoaXMubUNvbW1JbnRlcmZhY2UgPSBjb21tSW50ZXJmYWNlOwogICAgfQ==</text>
+        <text>commInterface</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>CommInterface commInterface</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgJChQUkVCVUlMVF9TSEFSRURfTElCUkFSWSkK</text>
+      <register name="5" type="4">
+        <text>commInterface</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">I0xPQ0FMX01PRFVMRSA6PSBnbnVzdGxfc2hhcgojTE9DQUxfU1JDX0ZJTEVTIDo9IC9Vc2Vycy9LeWxlL0Ryb3Bib3gvUHJvamVjdHMvVFNTL1RTU0Nsb3VkQ2xpZW50X0FuZHJvaWQvam5pL2xpYnMvbGliZ251c3RsX3NoYXJlZC5zbwo=</text>
+      <register name="6" type="4">
+        <text>CommInterface commInterface</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">I0xPQ0FMX01PRFVMRSA6PSBnbnVzdGxfc2hhcgojTE9DQUxfU1JDX0ZJTEVTIDo9IC9Vc2Vycy9LeWxlL0Ryb3Bib3gvUHJvamVjdHMvVFNTL1RTU0Nsb3VkQ2xpZW50X0FuZHJvaWQvam5pL2xpYnMvbGliZ251c3RsX3NoYXJlZC5zbwojaW5jbHVkZSAkKFBSRUJVSUxUX1NIQVJFRF9MSUJSQVJZKQo=</text>
+      <register name="7" type="4">
+        <text>(CommInterface commInterface)</text>
       </register>
-      <register name="8" type="4">
-        <text>e</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBUU1NBUElGYWN0b3J5IGFwaWYgPSBuZXcgVFNTQVBJRmFjdG9yeSgpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>d</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRzc0FwaSA9IG5ldyBUUwo=</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
