@@ -174,8 +174,11 @@
         <mark key="]" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPIBLE.java" timestamp="1462366733587">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPIBLE.java" timestamp="1462370145653">
         <mark key="[" line="8" column="33" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="7" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/ble/SerialManager.java" timestamp="1461848917506">
         <mark key="[" line="61" column="0" />
