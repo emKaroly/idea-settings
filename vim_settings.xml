@@ -63,8 +63,11 @@
         <mark key="^" line="94" column="21" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/CommunicationType.java" timestamp="1462352652903">
-        <mark key="[" line="7" column="31" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/CommunicationType.java" timestamp="1462353734461">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="24" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/tss/cloudclient/fragments/Main_Fragment.java" timestamp="1461156381403">
         <mark key="[" line="16" column="0" />
@@ -221,12 +224,6 @@
         <mark key="^" line="6" column="29" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDevice.java" timestamp="1461838178464">
-        <mark key="'" line="80" column="40" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/vsp/VirtualSerialPortDevice.java" timestamp="1460485114000">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -236,6 +233,9 @@
         <mark key="[" line="300" column="0" />
         <mark key="]" line="300" column="0" />
         <mark key="." line="300" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1462354301295">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/ble/vsp/FileAndFifoAndVspManager.java" timestamp="1460539915011">
         <mark key="[" line="12" column="0" />
@@ -259,11 +259,11 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" timestamp="1462265375328">
-        <mark key="'" line="315" column="0" />
-        <mark key="[" line="453" column="53" />
-        <mark key="]" line="453" column="59" />
-        <mark key="." line="453" column="0" />
-        <mark key="^" line="452" column="29" />
+        <mark key="'" line="314" column="0" />
+        <mark key="[" line="452" column="53" />
+        <mark key="]" line="452" column="59" />
+        <mark key="." line="452" column="0" />
+        <mark key="^" line="451" column="29" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/fragments/MQTTSettings_Fragment.java" timestamp="1450886169395">
         <mark key="[" line="136" column="39" />
@@ -301,6 +301,9 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="20" column="40" />
+      </file>
+      <file name="/fragment.java" timestamp="1462354301301">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
