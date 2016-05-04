@@ -6,10 +6,29 @@
   <action id="ActivatesimpleUMLToolWindow">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
+  <action id="EditorCutLineEnd" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="GuiDesigner.QuickJavadoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
   <action id="Macro.Reformat &amp; Save All">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="MinimizeCurrentWindow" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
   <action id="SaveAll" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
