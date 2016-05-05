@@ -92,11 +92,11 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPI.java" timestamp="1462442397827">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="4" />
-        <mark key="^" line="18" column="12" />
-        <mark key="." line="10" column="7" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPI.java" timestamp="1462445612815">
+        <mark key="[" line="17" column="53" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/res/layout/clientidpinner.xml" timestamp="1450879815137">
         <mark key="[" line="6" column="38" />
@@ -171,6 +171,9 @@
         <mark key="]" line="29" column="28" />
         <mark key="^" line="29" column="28" />
         <mark key="." line="29" column="28" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSCoreAPI.java" timestamp="1462445543304">
+        <mark key="^" line="7" column="9" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/ble/SerialManager.java" timestamp="1461848917506">
         <mark key="[" line="61" column="0" />
@@ -279,12 +282,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" timestamp="1462443716359">
-        <mark key="'" line="310" column="0" />
-        <mark key="[" line="70" column="29" />
-        <mark key="]" line="170" column="16" />
-        <mark key="^" line="170" column="16" />
-        <mark key="." line="170" column="16" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" timestamp="1462445501093">
+        <mark key="'" line="304" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="76" />
+        <mark key="^" line="63" column="5" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/fragments/MQTTSettings_Fragment.java" timestamp="1450886169395">
         <mark key="[" line="136" column="39" />
@@ -346,7 +349,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB1cm1zcF9UZXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBUU1NDb3JlQVBJIGNvcmUgPSBuZXcgVFNTQ29yZUFQSSgpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>private</text>
@@ -355,34 +358,34 @@
         <text>onUiConn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCgiTWFpbkFjdGl2aXR5Iix0ZXN0RnVuY3Rpb24oIktrdGluYSB2ZWxrYSIpKTsK</text>
+        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBuYXRpdmUgU3RyaW5nIGNvbmNhdGVuZU15U3RyaW5nV2l0aENwcFN0cmluZyhTdHJpbmcgbXlTdHJpbmcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1cm1zcF9UZXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBUU1NDb3JlQVBJIGNvcmUgPSBuZXcgVFNTQ29yZUFQSSgpOwo=</text>
       </register>
       <register name="2" type="4">
         <text>private</text>
       </register>
       <register name="3" type="4">
-        <text>private</text>
+        <text>//</text>
       </register>
-      <register name="4" type="4">
-        <text>public</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBuYXRpdmUgU3RyaW5nIGNvbmNhdGVuZU15U3RyaW5nV2l0aENwcFN0cmluZyhTdHJpbmcgbXlTdHJpbmcpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>private</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="6" type="4">
-        <text>public</text>
+        <text encoding="base64">CiAgICAvL3N0YXRpYyB7CiAgICAvLyAgICBTeXN0ZW0ubG9hZExpYnJhcnkoIkhlbGxvQ3BwIik7CiAgICAvL30K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBEaWFsb2cgbURpYWxvZ0ZvdW5kRGV2aWNlczsK</text>
+      <register name="7" type="4">
+        <text>private</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBMaXN0Rm91bmREZXZpY2VzSGFuZGxlciBtTGlzdEZvdW5kRGV2aWNlc0hhbmRsZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICB1cm1zcF9UZXN0KCk7Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>co</text>
+        <text>private</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
