@@ -96,11 +96,11 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPI.java" timestamp="1462455706913">
-        <mark key="[" line="17" column="53" />
-        <mark key="]" line="28" column="9" />
-        <mark key="^" line="28" column="9" />
-        <mark key="." line="28" column="9" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPI.java" timestamp="1462456711332">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="12" column="42" />
+        <mark key="." line="12" column="42" />
+        <mark key="^" line="12" column="42" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/res/layout/clientidpinner.xml" timestamp="1450879815137">
         <mark key="[" line="6" column="38" />
@@ -365,10 +365,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBmaW5hbCBUU1NDb3JlQVBJIGNvcmU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>BluetoothCommunicationCallbacks</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>onUiConn</text>
@@ -377,31 +377,31 @@
         <text encoding="base64">ICAgIC8vcHJpdmF0ZSBuYXRpdmUgU3RyaW5nIGNvbmNhdGVuZU15U3RyaW5nV2l0aENwcFN0cmluZyhTdHJpbmcgbXlTdHJpbmcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBmaW5hbCBUU1NDb3JlQVBJIGNvcmU7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL2J0Q29tbSA9IG5ldyBCbHVldG9vdGhDb21tdW5pY2F0aW9uKHRoaXMsKEJsdWV0b290aENvbW11bmljYXRpb25DYWxsYmFja3MpdGhpcyk7Cg==</text>
+      <register name="2" type="4">
+        <text>private</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL0xvZy5kKCJKTklDYWxsIixjb25jYXRlbmVNeVN0cmluZ1dpdGhDcHBTdHJpbmcoImtva290a28iKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2J0Q29tbSA9IG5ldyBCbHVldG9vdGhDb21tdW5pY2F0aW9uKHRoaXMsKEJsdWV0b290aENvbW11bmljYXRpb25DYWxsYmFja3MpdGhpcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL0xvZy5kKCJKTklDYWxsIixjb25jYXRlbmVNeVN0cmluZ1dpdGhDcHBTdHJpbmcoImtva290a28iKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICAgIFN5c3RlbS5sb2FkTGlicmFyeSgiVFNTQ29yZUFQSSIpOwogICAgLy8gICAgU3lzdGVtLmxvYWRMaWJyYXJ5KCJIZWxsb0NwcCIpOwogICAgLy99Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBuYXRpdmUgU3RyaW5nIGNvbmNhdGVuZU15U3RyaW5nV2l0aENwcFN0cmluZyhTdHJpbmcgbXlTdHJpbmcpOwogICAgLy9wcml2YXRlIG5hdGl2ZSBTdHJpbmcgdGVzdEZ1bmN0aW9uKFN0cmluZyBzdHJpbmcpOwoKICAgIC8vc3RhdGljIHsKICAgIC8vICAgIFN5c3RlbS5sb2FkTGlicmFyeSgiZ251c3RsX3NoYXJlZCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vdmVyeSBpbXBvcnRhbnQK</text>
+        <text encoding="base64">ICAgIC8vICAgIFN5c3RlbS5sb2FkTGlicmFyeSgiVFNTQ29yZUFQSSIpOwogICAgLy8gICAgU3lzdGVtLmxvYWRMaWJyYXJ5KCJIZWxsb0NwcCIpOwogICAgLy99Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>BluetoothCommunicationCallbacks</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBuYXRpdmUgU3RyaW5nIGNvbmNhdGVuZU15U3RyaW5nV2l0aENwcFN0cmluZyhTdHJpbmcgbXlTdHJpbmcpOwogICAgLy9wcml2YXRlIG5hdGl2ZSBTdHJpbmcgdGVzdEZ1bmN0aW9uKFN0cmluZyBzdHJpbmcpOwoKICAgIC8vc3RhdGljIHsKICAgIC8vICAgIFN5c3RlbS5sb2FkTGlicmFyeSgiZ251c3RsX3NoYXJlZCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
