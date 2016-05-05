@@ -8,6 +8,13 @@
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/vsp/VirtualSerialPortDeviceE.java" timestamp="1461838620665">
+        <mark key="'" line="16" column="38" />
+        <mark key="[" line="36" column="56" />
+        <mark key="]" line="30" column="17" />
+        <mark key="." line="30" column="17" />
+        <mark key="^" line="30" column="17" />
+      </file>
       <file name="/a.dummy" timestamp="1462365421628">
         <mark key="[" line="0" column="0" />
       </file>
@@ -78,9 +85,6 @@
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/BleBaseDeviceManager.java" timestamp="1461913854494">
-        <mark key="'" line="75" column="26" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPIFactory.java" timestamp="1462437292108">
         <mark key="[" line="13" column="39" />
         <mark key="]" line="16" column="47" />
@@ -92,16 +96,23 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPI.java" timestamp="1462445612815">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPI.java" timestamp="1462455706913">
         <mark key="[" line="17" column="53" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+        <mark key="]" line="28" column="9" />
+        <mark key="^" line="28" column="9" />
+        <mark key="." line="28" column="9" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/res/layout/clientidpinner.xml" timestamp="1450879815137">
         <mark key="[" line="6" column="38" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.cpp" timestamp="1462455664410">
+        <mark key="'" line="5" column="43" />
+        <mark key="[" line="5" column="52" />
+        <mark key="]" line="5" column="52" />
+        <mark key="." line="5" column="52" />
+        <mark key="^" line="5" column="52" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/res/menu/main.xml" timestamp="1459865924400">
         <mark key="[" line="14" column="44" />
@@ -217,6 +228,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/fragments/BLESettings_Fragment.java" timestamp="1461859131279">
+        <mark key="'" line="28" column="81" />
+        <mark key="[" line="80" column="23" />
+        <mark key="]" line="80" column="23" />
+        <mark key="." line="80" column="23" />
+        <mark key="^" line="80" column="23" />
+      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/tss/cloudclient/fragments/MQTTSettings_Fragment.java" timestamp="1461156396063">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="28" />
@@ -282,12 +300,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" timestamp="1462445501093">
-        <mark key="'" line="304" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="76" />
-        <mark key="^" line="63" column="5" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" timestamp="1462456153313">
+        <mark key="'" line="289" column="0" />
+        <mark key="[" line="38" column="25" />
+        <mark key="]" line="39" column="38" />
+        <mark key="^" line="39" column="38" />
+        <mark key="." line="39" column="38" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/fragments/MQTTSettings_Fragment.java" timestamp="1450886169395">
         <mark key="[" line="136" column="39" />
@@ -304,9 +322,6 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/ui/IBleBaseActivityUiCallback.java" timestamp="1461914084402">
-        <mark key="'" line="10" column="24" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/fragments/BLESettings_Fragment.java" timestamp="1460639627771">
         <mark key="[" line="45" column="0" />
@@ -346,13 +361,14 @@
       <jump line="85" column="31" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/bt/BluetoothCommunication.java" />
       <jump line="75" column="26" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/BleBaseDeviceManager.java" />
       <jump line="10" column="24" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/ui/IBleBaseActivityUiCallback.java" />
+      <jump line="5" column="43" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUU1NDb3JlQVBJIGNvcmUgPSBuZXcgVFNTQ29yZUFQSSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>BluetoothCommunicationCallbacks</text>
       </register>
       <register name="/" type="4">
         <text>onUiConn</text>
@@ -361,31 +377,31 @@
         <text encoding="base64">ICAgIC8vcHJpdmF0ZSBuYXRpdmUgU3RyaW5nIGNvbmNhdGVuZU15U3RyaW5nV2l0aENwcFN0cmluZyhTdHJpbmcgbXlTdHJpbmcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUU1NDb3JlQVBJIGNvcmUgPSBuZXcgVFNTQ29yZUFQSSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>private</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvL2J0Q29tbSA9IG5ldyBCbHVldG9vdGhDb21tdW5pY2F0aW9uKHRoaXMsKEJsdWV0b290aENvbW11bmljYXRpb25DYWxsYmFja3MpdGhpcyk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>//</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvL0xvZy5kKCJKTklDYWxsIixjb25jYXRlbmVNeVN0cmluZ1dpdGhDcHBTdHJpbmcoImtva290a28iKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBuYXRpdmUgU3RyaW5nIGNvbmNhdGVuZU15U3RyaW5nV2l0aENwcFN0cmluZyhTdHJpbmcgbXlTdHJpbmcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAvL3N0YXRpYyB7CiAgICAvLyAgICBTeXN0ZW0ubG9hZExpYnJhcnkoIkhlbGxvQ3BwIik7CiAgICAvL30K</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vICAgIFN5c3RlbS5sb2FkTGlicmFyeSgiVFNTQ29yZUFQSSIpOwogICAgLy8gICAgU3lzdGVtLmxvYWRMaWJyYXJ5KCJIZWxsb0NwcCIpOwogICAgLy99Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>private</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vcHJpdmF0ZSBuYXRpdmUgU3RyaW5nIGNvbmNhdGVuZU15U3RyaW5nV2l0aENwcFN0cmluZyhTdHJpbmcgbXlTdHJpbmcpOwogICAgLy9wcml2YXRlIG5hdGl2ZSBTdHJpbmcgdGVzdEZ1bmN0aW9uKFN0cmluZyBzdHJpbmcpOwoKICAgIC8vc3RhdGljIHsKICAgIC8vICAgIFN5c3RlbS5sb2FkTGlicmFyeSgiZ251c3RsX3NoYXJlZCIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1cm1zcF9UZXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vdmVyeSBpbXBvcnRhbnQK</text>
       </register>
       <register name="9" type="4">
-        <text>private</text>
+        <text>BluetoothCommunicationCallbacks</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
