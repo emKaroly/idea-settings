@@ -46,11 +46,11 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPIWIFI.java" timestamp="1462366406146">
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="7" column="14" />
-        <mark key="^" line="6" column="21" />
-        <mark key="." line="7" column="14" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPIWIFI.java" timestamp="1462437257915">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="9" column="23" />
+        <mark key="^" line="9" column="23" />
+        <mark key="." line="9" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/jni/CoreWrapper.cpp" timestamp="1459779837332">
         <mark key="[" line="6" column="57" />
@@ -88,22 +88,22 @@
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/com/lairdtech/bt/ble/BleBaseDeviceManager.java" timestamp="1461913854494">
         <mark key="'" line="75" column="26" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPIFactory.java" timestamp="1462367310558">
-        <mark key="[" line="9" column="37" />
-        <mark key="]" line="27" column="18" />
-        <mark key="^" line="27" column="18" />
-        <mark key="." line="27" column="18" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPIFactory.java" timestamp="1462437292108">
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="16" column="47" />
+        <mark key="^" line="16" column="47" />
+        <mark key="." line="16" column="47" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/fragments/Main_Fragment.java" timestamp="1459863163760">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPI.java" timestamp="1462366101379">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="10" />
-        <mark key="^" line="12" column="10" />
-        <mark key="." line="12" column="10" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPI.java" timestamp="1462436945478">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/res/layout/clientidpinner.xml" timestamp="1450879815137">
         <mark key="[" line="6" column="38" />
@@ -121,12 +121,12 @@
         <mark key="]" line="17" column="28" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/bt/BluetoothCommunication.java" timestamp="1461917499284">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/bt/BluetoothCommunication.java" timestamp="1462436239718">
         <mark key="'" line="95" column="31" />
-        <mark key="[" line="86" column="6" />
-        <mark key="]" line="86" column="6" />
-        <mark key="." line="86" column="6" />
-        <mark key="^" line="48" column="7" />
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="24" column="21" />
+        <mark key="." line="24" column="21" />
+        <mark key="^" line="22" column="95" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/tss/cloudclient/settings/MQTTSettings.java" timestamp="1450886473181">
         <mark key="[" line="22" column="70" />
@@ -134,11 +134,11 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPIUSB.java" timestamp="1462366374907">
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="7" column="14" />
-        <mark key="^" line="6" column="50" />
-        <mark key="." line="7" column="14" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPIUSB.java" timestamp="1462437188062">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="8" column="37" />
+        <mark key="^" line="8" column="37" />
+        <mark key="." line="8" column="37" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/res/values/strings.xml" timestamp="1460713267306">
         <mark key="[" line="6" column="51" />
@@ -173,11 +173,11 @@
         <mark key="]" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPIBLE.java" timestamp="1462370145653">
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="7" column="23" />
-        <mark key="^" line="7" column="23" />
-        <mark key="." line="7" column="23" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPIBLE.java" timestamp="1462438453338">
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="29" column="28" />
+        <mark key="^" line="29" column="28" />
+        <mark key="." line="29" column="28" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/ble/SerialManager.java" timestamp="1461848917506">
         <mark key="[" line="61" column="0" />
@@ -194,11 +194,11 @@
         <mark key="]" line="10" column="32" />
         <mark key="." line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPIBT.java" timestamp="1462366338056">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="14" />
-        <mark key="^" line="8" column="49" />
-        <mark key="." line="9" column="14" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPIBT.java" timestamp="1462437232524">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="36" />
+        <mark key="^" line="8" column="36" />
+        <mark key="." line="8" column="36" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/ble/SerialManager.java" timestamp="1460643555256">
         <mark key="[" line="69" column="94" />
@@ -293,12 +293,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" timestamp="1462359055488">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/cloudclient/activities/MainActivity.java" timestamp="1462436988412">
         <mark key="'" line="314" column="0" />
-        <mark key="[" line="173" column="31" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
-        <mark key="^" line="173" column="31" />
+        <mark key="[" line="173" column="50" />
+        <mark key="]" line="173" column="55" />
+        <mark key="." line="173" column="55" />
+        <mark key="^" line="173" column="55" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/fragments/MQTTSettings_Fragment.java" timestamp="1450886169395">
         <mark key="[" line="136" column="39" />
@@ -360,10 +360,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>commInterface</text>
+        <text>co</text>
       </register>
       <register name="-" type="4">
-        <text>commInterface</text>
+        <text>co</text>
       </register>
       <register name="/" type="4">
         <text>onUiConn</text>
@@ -372,31 +372,31 @@
         <text encoding="base64">ICAgICAgICBMb2cuZCgiTWFpbkFjdGl2aXR5Iix0ZXN0RnVuY3Rpb24oIktrdGluYSB2ZWxrYSIpKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>commInterface</text>
+        <text>co</text>
       </register>
-      <register name="2" type="4">
-        <text>CommInterface commInterface</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>commInterface</text>
+        <text>public</text>
       </register>
-      <register name="4" type="4">
-        <text>CommInterface commInterface</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>commInterface</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>CommInterface commInterface</text>
+        <text>CommInterface commInterface,</text>
       </register>
       <register name="7" type="4">
-        <text>(CommInterface commInterface)</text>
+        <text>CommInterface commInterface,</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUU1NBUElGYWN0b3J5IGFwaWYgPSBuZXcgVFNTQVBJRmFjdG9yeSgpOwo=</text>
+      <register name="8" type="4">
+        <text>activity</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRzc0FwaSA9IG5ldyBUUwo=</text>
+      <register name="9" type="4">
+        <text>(BluetoothCommunicationCallbacks)</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
@@ -439,6 +439,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
