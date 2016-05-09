@@ -96,11 +96,11 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPI.java" timestamp="1462786675516">
-        <mark key="[" line="45" column="41" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="41" column="7" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPI.java" timestamp="1462788776433">
+        <mark key="[" line="45" column="53" />
+        <mark key="]" line="47" column="64" />
+        <mark key="." line="47" column="64" />
+        <mark key="^" line="47" column="64" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/res/layout/clientidpinner.xml" timestamp="1450879815137">
         <mark key="[" line="6" column="38" />
@@ -128,11 +128,12 @@
         <mark key="]" line="17" column="28" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/bt/BluetoothCommunication.java" timestamp="1462785821157">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/bt/BluetoothCommunication.java" timestamp="1462788666412">
         <mark key="'" line="102" column="31" />
-        <mark key="[" line="114" column="39" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
+        <mark key="[" line="41" column="39" />
+        <mark key="]" line="27" column="33" />
+        <mark key="^" line="27" column="33" />
+        <mark key="." line="27" column="33" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/src/com/tsscloudclient/tss/cloudclient/settings/MQTTSettings.java" timestamp="1450886473181">
         <mark key="[" line="22" column="70" />
@@ -179,12 +180,12 @@
         <mark key="]" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPIBLE.java" timestamp="1462787660045">
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPIBLE.java" timestamp="1462788721363">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="42" column="34" />
-        <mark key="]" line="43" column="41" />
-        <mark key="." line="43" column="41" />
-        <mark key="^" line="43" column="41" />
+        <mark key="[" line="42" column="55" />
+        <mark key="]" line="47" column="17" />
+        <mark key="." line="43" column="8" />
+        <mark key="^" line="43" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSCoreAPI.java" timestamp="1462458150183">
         <mark key="[" line="16" column="1" />
@@ -345,7 +346,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="20" column="40" />
       </file>
-      <file name="/fragment.java" timestamp="1462365426270">
+      <file name="/fragment.java" timestamp="1462789154376">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -371,7 +372,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>logMessage</text>
+        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDIwMDApOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="-" type="4">
         <text>logMessage</text>
@@ -383,31 +384,31 @@
         <text encoding="base64">IFRocmVhZCB0aHJkID0gVGhyZWFkLmN1cnJlbnRUaHJlYWQoKTsKICAgICAgICBMb2cuZChUQUcsICJsb2dNZXNzYWdlOiAiICsgbXNnICsgIiAtIEN1cnJlbnQgVGhyZWFkOiAiICsgdGhyZC5nZXROYW1lKCkpOwogICAgICAgIHN1cGVyLm1UaHJlYWRpbmdUZXN0LnNldERhdGEobXNnKTsKICAgICAgICA=</text>
       </register>
       <register name="1" type="4">
-        <text>logMessage</text>
+        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDIwMDApOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5tVGhyZWFkaW5nVGVzdC5zZXREYXRhKG1zZyk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJsb2dNZXNzYWdlOiAiICsgbXNnICsgIiAtIEN1cnJlbnQgVGhyZWFkOiAiICsgdGhyZC5nZXROYW1lKCkpOwo=</text>
-      </register>
-      <register name="4" type="4">
-        <text>Before</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">TG9nLmQoIlRTU0FQSSIsIkJlZm9yZSBnZXREYXRhIik7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">U2xlZXAoMjAwKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cHVibGljIHZvaWQgc2VuZERhdGEoU3RyaW5nIGRhdGEpIHsKICAgICAgICBtQnRDb21tLnNlbmREYXRhKGRhdGEpOwogICAgfQo=</text>
+      <register name="3" type="4">
+        <text>logMessage</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlci5tVGhyZWFkaW5nVGVzdC5zZXREYXRhKG1zZyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJsb2dNZXNzYWdlOiAiICsgbXNnICsgIiAtIEN1cnJlbnQgVGhyZWFkOiAiICsgdGhyZC5nZXROYW1lKCkpOwo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>Before</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">TG9nLmQoIlRTU0FQSSIsIkJlZm9yZSBnZXREYXRhIik7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">U2xlZXAoMjAwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNlbmREYXRhKFN0cmluZyBkYXRhKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
