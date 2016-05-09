@@ -107,12 +107,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.cpp" timestamp="1462801942570">
-        <mark key="'" line="5" column="43" />
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.cpp" timestamp="1462804759949">
+        <mark key="'" line="4" column="43" />
+        <mark key="[" line="18" column="69" />
+        <mark key="]" line="18" column="69" />
+        <mark key="." line="18" column="69" />
+        <mark key="^" line="18" column="69" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/ThreadingTest.java" timestamp="1462790008218">
         <mark key="[" line="41" column="39" />
@@ -343,10 +343,10 @@
         <mark key="^" line="229" column="64" />
         <mark key="." line="230" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/Android.mk" timestamp="1462442840627">
-        <mark key="[" line="23" column="34" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/Android.mk" timestamp="1462805119929">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="47" />
+        <mark key="." line="13" column="19" />
         <mark key="^" line="20" column="40" />
       </file>
       <file name="/fragment.java" timestamp="1462789154376">
@@ -374,8 +374,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPIBLE.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLndhaXQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>../../TSSCoreAPI/TSSCoreAPI/</text>
       </register>
       <register name="-" type="4">
         <text>logMessage</text>
@@ -383,8 +383,8 @@
       <register name="/" type="4">
         <text>onUiConn</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJiZWZvcmVXYWl0IC0gVGhyZWFkOiAiICsgdGhyZC5nZXROYW1lKCkpOwogICAgICAgICAgICAgICAgICAgIHRoaXMud2FpdCgpOwo=</text>
+      <register name="0" type="4">
+        <text>../../TSSCoreAPI/TSSCoreAPI/</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLndhaXQoKTsK</text>
