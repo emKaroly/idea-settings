@@ -107,11 +107,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.cpp" timestamp="1462976702582">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="25" column="1" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.cpp" timestamp="1462978474457">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/ThreadingTest.java" timestamp="1462790008218">
         <mark key="[" line="41" column="39" />
@@ -388,30 +387,30 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dm9pZCBra3RpbmEoKXsKfQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CnZvaWQgeHh4KCl7Cnl5eSgpOwp9Cgp2b2lkIHl5eSgpewp9Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBra3RpbmEoKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CnZvaWQgeXl5KCl7Cn0K</text>
       </register>
-      <register name="4" type="2">
+      <register name="4" type="4">
+        <text encoding="base64">dm9pZCB4eHgoKXsKeXl5KCk7Cn0K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>void snd(String data){
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">dm9pZCBra3RpbmEoKXsKfQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CmpvYmplY3QgZ19nZXRTaXplSWZhY2U7CmptZXRob2RJRCBnX21ldGhvZDsKSk5JRW52ICpnX2VudjsK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CkphdmFWTSAqIGdfdm07CmpvYmplY3QgZ19vYmo7CmptZXRob2RJRCBnX21pZDsK</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBra3RpbmEoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHJ2YWx1ZTsK</text>
+      <register name="9" type="4">
+        <text>void snd(String data){
+}</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
