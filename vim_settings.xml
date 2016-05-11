@@ -107,11 +107,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.cpp" timestamp="1462954503445">
-        <mark key="[" line="18" column="68" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/ThreadingTest.java" timestamp="1462790008218">
         <mark key="[" line="41" column="39" />
         <mark key="]" line="42" column="0" />
@@ -372,8 +367,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPIBLE.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGpjbGFzcyBjbHMgPSAoKmVudiktPkdldE9iamVjdENsYXNzKGVudiwgb2JqKTsKICBqbWV0aG9kSUQgbWlkID0gKCplbnYpLT5HZXRNZXRob2RJRChlbnYsIGNscywgImNhbGxiYWNrIiwgIihJKVYiKTsKCiAgaWYgKG1pZCA9PSAwKQogICAgcmV0dXJuOwoKICBwcmludGYoIkluIEMsIGRlcHRoID0gJWQsIGFib3V0IHRvIGVudGVyIEphdmFcbiIsIGRlcHRoKTsKCiAgKCplbnYpLT5DYWxsVm9pZE1ldGhvZChlbnYsIG9iaiwgbWlkLCBkZXB0aCk7CgogIHByaW50ZigiSW4gQywgZGVwdGggPSAlZCwgYmFjayBmcm9tIEphdmFcbiIsIGRlcHRoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>logMessage</text>
@@ -384,23 +379,23 @@
       <register name="0" type="4">
         <text>../../TSSCoreAPI/TSSCoreAPI/</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGpjbGFzcyBjbHMgPSAoKmVudiktPkdldE9iamVjdENsYXNzKGVudiwgb2JqKTsKICBqbWV0aG9kSUQgbWlkID0gKCplbnYpLT5HZXRNZXRob2RJRChlbnYsIGNscywgImNhbGxiYWNrIiwgIihJKVYiKTsKCiAgaWYgKG1pZCA9PSAwKQogICAgcmV0dXJuOwoKICBwcmludGYoIkluIEMsIGRlcHRoID0gJWQsIGFib3V0IHRvIGVudGVyIEphdmFcbiIsIGRlcHRoKTsKCiAgKCplbnYpLT5DYWxsVm9pZE1ldGhvZChlbnYsIG9iaiwgbWlkLCBkZXB0aCk7CgogIHByaW50ZigiSW4gQywgZGVwdGggPSAlZCwgYmFjayBmcm9tIEphdmFcbiIsIGRlcHRoKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3RhdGljIGNoYXIgKiBzaWdTdHIgPSAiKExqYXZhL2xhbmcvU3RyaW5nO0lMamF2YS9sYW5nL1N0cmluZzspViI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3RhdGljIGptZXRob2RJRCBtaWRTdHI7Cg==</text>
+        <text encoding="base64">c3RhdGljIGNoYXIgKiBzaWdTdHIgPSAiKExqYXZhL2xhbmcvU3RyaW5nO0lMamF2YS9sYW5nL1N0cmluZzspViI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3RhdGljIGpjbGFzcyBjbHM7Cg==</text>
+        <text encoding="base64">c3RhdGljIGptZXRob2RJRCBtaWRTdHI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3RhdGljIGpjbGFzcyBjbHM7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -408,8 +403,8 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAvLyBJbml0IC0gT25lIHRpbWUgdG8gaW5pdGlhbGl6ZSB0aGUgbWV0aG9kIGlkLCAodXNlIGFuIGluaXQoKSBmdW5jdGlvbikKICAgIG1pZFN0ciA9ICgqZW52KS0+R2V0TWV0aG9kSUQoZW52LCBjbGFzcywgImphdmFEZWZpbmVTdHJpbmciLCBzaWdTdHIpOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
