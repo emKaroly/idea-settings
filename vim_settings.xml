@@ -107,10 +107,17 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.cpp" timestamp="1462978474457">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.cpp" timestamp="1463038660718">
+        <mark key="[" line="30" column="43" />
+        <mark key="]" line="30" column="53" />
+        <mark key="." line="30" column="53" />
+        <mark key="^" line="30" column="53" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.h" timestamp="1463038511605">
+        <mark key="[" line="30" column="17" />
+        <mark key="]" line="33" column="1" />
+        <mark key="^" line="33" column="1" />
+        <mark key="." line="33" column="1" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/ThreadingTest.java" timestamp="1462790008218">
         <mark key="[" line="41" column="39" />
@@ -188,8 +195,8 @@
         <mark key="." line="43" column="8" />
         <mark key="^" line="43" column="7" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSCoreAPI.java" timestamp="1462975327103">
-        <mark key="[" line="10" column="31" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSCoreAPI.java" timestamp="1463038496074">
+        <mark key="[" line="12" column="24" />
         <mark key="]" line="10" column="53" />
         <mark key="^" line="9" column="30" />
         <mark key="." line="10" column="0" />
