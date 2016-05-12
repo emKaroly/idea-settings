@@ -96,8 +96,8 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPI.java" timestamp="1462969149899">
-        <mark key="[" line="44" column="23" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPI.java" timestamp="1463040720541">
+        <mark key="[" line="43" column="29" />
         <mark key="]" line="49" column="64" />
         <mark key="." line="49" column="64" />
         <mark key="^" line="49" column="64" />
@@ -107,11 +107,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.cpp" timestamp="1463038660718">
-        <mark key="[" line="30" column="43" />
-        <mark key="]" line="30" column="53" />
-        <mark key="." line="30" column="53" />
-        <mark key="^" line="30" column="53" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.cpp" timestamp="1463042737329">
+        <mark key="[" line="79" column="8" />
+        <mark key="]" line="79" column="66" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.h" timestamp="1463038511605">
         <mark key="[" line="30" column="17" />
@@ -380,7 +380,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlzdGQ6OmNvdXQgPDwgIkdldEVudjogdmVyc2lvbiBub3Qgc3VwcG9ydGVkIiA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>logMessage</text>
@@ -389,35 +389,46 @@
         <text>onUiConn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBuYXRpdmUgU3RyaW5nIHRlc3RGdW5jdGlvbihTdHJpbmcgc3RyaW5nKTsK</text>
+        <text encoding="base64">CQlzdGQ6OmNvdXQgPDwgIkdldEVudjogdmVyc2lvbiBub3Qgc3VwcG9ydGVkIiA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CnZvaWQgeHh4KCl7Cnl5eSgpOwp9Cgp2b2lkIHl5eSgpewp9Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Sk5JRW52ICogZ19lbnY7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CnZvaWQgeXl5KCl7Cn0K</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">dm9pZCB4eHgoKXsKeXl5KCk7Cn0K</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQlnX2NsYXp6ID0gZW52LT5HZXRTdXBlcmNsYXNzKGdfY2xhenopOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">dm9pZCBra3RpbmEoKXsKfQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CnZvaWQgeHh4KCl7Cnl5eSgpOwp9Cgp2b2lkIHl5eSgpewp9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBra3RpbmEoKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CnZvaWQgeXl5KCl7Cn0K</text>
       </register>
-      <register name="8" type="2">
+      <register name="8" type="4">
+        <text encoding="base64">dm9pZCB4eHgoKXsKeXl5KCk7Cn0K</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>void snd(String data){
-}</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
