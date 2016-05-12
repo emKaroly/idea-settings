@@ -107,11 +107,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.cpp" timestamp="1463047270087">
-        <mark key="[" line="89" column="47" />
-        <mark key="]" line="89" column="37" />
-        <mark key="." line="89" column="37" />
-        <mark key="^" line="89" column="37" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.cpp" timestamp="1463049974980">
+        <mark key="[" line="45" column="8" />
+        <mark key="]" line="46" column="39" />
+        <mark key="^" line="95" column="44" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.h" timestamp="1463038511605">
         <mark key="[" line="35" column="17" />
@@ -379,7 +379,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Z192bS0+QXR0YWNoQ3VycmVudFRocmVhZCgodm9pZCoqKSZnX2VudiwgTlVMTCk7Cg==</text>
+        <text encoding="base64">CQlnX29iaiA9IGVudi0+TmV3R2xvYmFsUmVmKG9iaik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Hello world</text>
@@ -388,34 +388,34 @@
         <text>onUiConn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJTE9HRCgiSGVsbG8gd29ybGQiKTsK</text>
+        <text encoding="base64">CQlnX29iaiA9IGVudi0+TmV3R2xvYmFsUmVmKG9iaik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Z192bS0+QXR0YWNoQ3VycmVudFRocmVhZCgodm9pZCoqKSZnX2VudiwgTlVMTCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLwo=</text>
+        <text encoding="base64">Z192bS0+QXR0YWNoQ3VycmVudFRocmVhZCgodm9pZCoqKSZnX2VudiwgTlVMTCk7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CQkvLwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQlzdGQ6OmNvdXQgPDwgIkdldEVudjogdmVyc2lvbiBub3Qgc3VwcG9ydGVkIiA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>Hello world</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQlzdGQ6OmNvdXQgPDwgIkdldEVudjogSm5pIE9LIiA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>Hello world</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJc3RkOjpjb3V0IDw8ICJGYWlsZWQgdG8gYXR0YWNoIiA8PCBzdGQ6OmVuZGw7Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>Hello world</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJc3RkOjpjb3V0IDw8ICJHZXRFbnY6IG5vdCBhdHRhY2hlZCIgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
