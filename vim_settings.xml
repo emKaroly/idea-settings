@@ -101,22 +101,21 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPI.java" timestamp="1463133435005">
-        <mark key="[" line="66" column="8" />
-        <mark key="]" line="71" column="9" />
-        <mark key="^" line="67" column="7" />
-        <mark key="." line="67" column="8" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPI.java" timestamp="1463135939645">
+        <mark key="[" line="66" column="3" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/res/layout/clientidpinner.xml" timestamp="1450879815137">
         <mark key="[" line="6" column="38" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.cpp" timestamp="1463133611668">
-        <mark key="[" line="39" column="8" />
-        <mark key="]" line="39" column="49" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="18" column="48" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.cpp" timestamp="1463135777257">
+        <mark key="[" line="15" column="78" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.h" timestamp="1463133896637">
         <mark key="[" line="54" column="58" />
@@ -384,7 +383,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdXJtc3BfU3RhcnRST1NwZWMoZmxhZ3MscmVzZXJ2ZWQpOwo=</text>
+        <text encoding="base64">ICAgIGdfc3RyID0gbXlTdHJpbmc7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>short</text>
@@ -396,31 +395,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gdXJtc3BfU3RhcnRST1NwZWMoZmxhZ3MscmVzZXJ2ZWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgo=</text>
+        <text encoding="base64">ICAgIGdfc3RyID0gbXlTdHJpbmc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1cm1zcF9TdGFydFJPU3BlYygsMHgwMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnX3N0ciA9IG15U3RyaW5nOwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RlbXAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBKTklFWFBPUlQgamludCBKTklDQUxMIEphdmFfZXVfdHNzX2FwaV9UU1NDb3JlQVBJX3VybXNwXzFTdGFydFJPU3BlYwogICAgKEpOSUVudiAqIGVudiwgam9iamVjdCB0aGl6LCBqY2hhciBmbGFncywgamNoYXIgcmVzZXJ2ZWQpCiAgICB7CiAgICAgICAgcmV0dXJuIHVybXNwX1N0YXJ0Uk9TcGVjKGZsYWdzLHJlc2VydmVkKTsKICAgIH0K</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBnX3N0ciA9IG15U3RyaW5nOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Lwo=</text>
+        <text encoding="base64">ICAgICAgICAvL1RlbXAK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICBKTklFWFBPUlQgamludCBKTklDQUxMIEphdmFfZXVfdHNzX2FwaV9UU1NDb3JlQVBJX3VybXNwX1N0YXJ0Uk9TcGVjCiAgICAoSk5JRW52ICogZW52LCBqb2JqZWN0IHRoaXosIGpzaG9ydCBmbGFncywganNob3J0IHJlc2VydmVkKQogICAgewoKICAgIHJldHVybiB1cm1zcF9TdGFydFJPU3BlYygpOwogICAgfQ==</text>
+        <text encoding="base64">CiAgICBKTklFWFBPUlQgamludCBKTklDQUxMIEphdmFfZXVfdHNzX2FwaV9UU1NDb3JlQVBJX3VybXNwXzFTdGFydFJPU3BlYwogICAgKEpOSUVudiAqIGVudiwgam9iamVjdCB0aGl6LCBqY2hhciBmbGFncywgamNoYXIgcmVzZXJ2ZWQpCiAgICB7CiAgICAgICAgcmV0dXJuIHVybXNwX1N0YXJ0Uk9TcGVjKGZsYWdzLHJlc2VydmVkKTsKICAgIH0K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ci8qCiAqIENsYXNzOiAgICAgZXVfdHNzX2FwaV9UU1NDb3JlQVBJCiAqIE1ldGhvZDogICAgdXJtc3BfU3RhcnRST1NwZWMKICogU2lnbmF0dXJlOiAoU1MpSQogKi8KSk5JRVhQT1JUIGppbnQgSk5JQ0FMTCBKYXZhX2V1X3Rzc19hcGlfVFNTQ29yZUFQSV91cm1zcF9TdGFydFJPU3BlYwogIChKTklFbnYgKiBlbnYsIGpvYmplY3QgdGhpeiwganNob3J0IGZsYWdzLCBqc2hvcnQgcmVzZXJ2ZWQpOwo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Lwo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">LyoKICogQ2xhc3M6ICAgICBldV90c3NfYXBpX1RTU0NvcmVBUEkKICogTWV0aG9kOiAgICB1cm1zcF9TdGFydFJPU3BlYwogKiBTaWduYXR1cmU6IChDQylJCiAqLwpKTklFWFBPUlQgamludCBKTklDQUxMIEphdmFfZXVfdHNzX2FwaV9UU1NDb3JlQVBJX3VybXNwXzFTdGFydFJPU3BlYwogIChKTklFbnYgKiwgam9iamVjdCwgamNoYXIsIGpjaGFyKTsK</text>
+        <text encoding="base64">CiAgICBKTklFWFBPUlQgamludCBKTklDQUxMIEphdmFfZXVfdHNzX2FwaV9UU1NDb3JlQVBJX3VybXNwX1N0YXJ0Uk9TcGVjCiAgICAoSk5JRW52ICogZW52LCBqb2JqZWN0IHRoaXosIGpzaG9ydCBmbGFncywganNob3J0IHJlc2VydmVkKQogICAgewoKICAgIHJldHVybiB1cm1zcF9TdGFydFJPU3BlYygpOwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
