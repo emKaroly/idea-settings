@@ -112,11 +112,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.cpp" timestamp="1463391986523">
-        <mark key="[" line="139" column="36" />
-        <mark key="]" line="139" column="34" />
-        <mark key="." line="139" column="34" />
-        <mark key="^" line="139" column="34" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.cpp" timestamp="1463403067236">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
+        <mark key="^" line="101" column="30" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.h" timestamp="1463146572457">
         <mark key="[" line="57" column="38" />
@@ -382,43 +382,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>timeoutExpiredMs</text>
+        <text>g_mid</text>
       </register>
       <register name="/" type="4">
         <text>onUiConn</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlnX21pZCA9IGVudi0+R2V0TWV0aG9kSUQoZ19jbGF6eiwgInNlbmREYXRhIiwgIihbQilWIik7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">CUxPR0QoIkNhbGxiYWNrIik7CiAgICAgICAgSk5JRW52KiBnX2VudjsKCgkgICAgLy9kb3VibGUgY2hlY2sgaXQncyBhbGwgb2sKCSAgICBpbnQgZ2V0RW52U3RhdCA9IGdfdm0tPkdldEVudigodm9pZCAqKikmZ19lbnYsIEpOSV9WRVJTSU9OXzFfNik7CgogICAgICAgIC8vSmF2YVZNQXR0YWNoQXJncyBhcmdzOwogICAgICAgIC8vYXJncy52ZXJzaW9uID0gSk5JX1ZFUlNJT05fMV82OyAvLyBjaG9vc2UgeW91ciBKTkkgdmVyc2lvbgogICAgICAgIC8vYXJncy5uYW1lID0gTlVMTDsgLy8geW91IG1pZ2h0IHdhbnQgdG8gZ2l2ZSB0aGUgamF2YSB0aHJlYWQgYSBuYW1lCiAgICAgICAgLy9hcmdzLmdyb3VwID0gTlVMTDsgLy8geW91IG1pZ2h0IHdhbnQgdG8gYXNzaWduIHRoZSBqYXZhIHRocmVhZCB0byBhIFRocmVhZEdyb3VwCgoJICAgIGlmIChnZXRFbnZTdGF0ID09IEpOSV9FREVUQUNIRUQpIHsKCgkJICAgIExPR0QoIkdldEVudjogbm90IGF0dGFjaGVkIik7CgoJCSAgICBpZiAoZ192bS0+QXR0YWNoQ3VycmVudFRocmVhZCgmZ19lbnYsIE5VTEwpICE9IDApIHsKCQkJICAgIExPR0QoIkZhaWxlZCB0byBhdHRhY2giKTsKCQkgICAgfQoKCSAgICB9IGVsc2UgaWYgKGdldEVudlN0YXQgPT0gSk5JX09LKSB7CgkJICAgIExPR0QoIkdldEVudjogSm5pIE9LIik7CgkgICAgfSBlbHNlIGlmIChnZXRFbnZTdGF0ID09IEpOSV9FVkVSU0lPTikgewoJCSAgICBMT0dEKCJHZXRFbnY6IHZlcmlvbiBub3Qgc3VwcG9ydGVkIik7CgkgICAgfQoKICAgICAgICBqYnl0ZUFycmF5IHBhY2tldCA9IGdfZW52LT5OZXdCeXRlQXJyYXkobGVuZ3RoKTsKICAgICAgICBnX2Vudi0+U2V0Qnl0ZUFycmF5UmVnaW9uIChwYWNrZXQsIDAsIGxlbmd0aCwgKGpieXRlKikodmFsKSk7CiAgICAgICAgZ19lbnYtPkNhbGxWb2lkTWV0aG9kKGdfb2JqLCBnX21pZCwgcGFja2V0KTsKCiAgICAgICAgLy9kZWxldGVbXSB0ZW1wQnVmZmVyOwogICAgICAgIC8vCiAgICAgICAgLy8JaWYgKGdfZW52LT5FeGNlcHRpb25DaGVjaygpKSB7CiAgICAgICAgLy8JCWdfZW52LT5FeGNlcHRpb25EZXNjcmliZSgpOwogICAgICAgIC8vCX0KCiAgICAgICAgaWYoZ2V0RW52U3RhdCA9PSBKTklfRURFVEFDSEVEKQogICAgICAgICAgICBnX3ZtLT5EZXRhY2hDdXJyZW50VGhyZWFkKCk7CgogICAgICAgIC8vICAgIHJldHVybiByZXRWYWw7CiAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgdHJ5IHsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBnX2Vudi0+U2V0Qnl0ZUFycmF5UmVnaW9uIChwYWNrZXQsIDAsIGxlbmd0aCwgKGpieXRlKikodmFsKSk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBqYnl0ZUFycmF5IHBhY2tldCA9IGdfZW52LT5OZXdCeXRlQXJyYXkobGVuZ3RoKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="5" type="4">
+        <text>g_mid</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      <register name="6" type="4">
+        <text>packet</text>
+      </register>
+      <register name="7" type="4">
+        <text>packet</text>
+      </register>
+      <register name="8" type="4">
+        <text>jmethodID mid, unsigned char *value, int length</text>
+      </register>
+      <register name="9" type="4">
+        <text>Callback</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
