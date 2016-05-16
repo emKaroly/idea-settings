@@ -112,17 +112,17 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.cpp" timestamp="1463403067236">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
-        <mark key="^" line="101" column="30" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.cpp" timestamp="1463405519728">
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="141" column="57" />
+        <mark key="^" line="141" column="23" />
+        <mark key="." line="141" column="23" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.h" timestamp="1463146572457">
-        <mark key="[" line="57" column="38" />
-        <mark key="]" line="57" column="2" />
-        <mark key="." line="57" column="2" />
-        <mark key="^" line="57" column="2" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.h" timestamp="1463405339517">
+        <mark key="[" line="58" column="4" />
+        <mark key="]" line="58" column="47" />
+        <mark key="." line="58" column="47" />
+        <mark key="^" line="58" column="47" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/ThreadingTest.java" timestamp="1463401593749">
         <mark key="[" line="44" column="69" />
@@ -382,43 +382,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW50IHNlbmREYXRhQ2FsbGJhY2sodW5zaWduZWQgY2hhciAqdmFsLCBpbnQgbGVuZ3RoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>g_mid</text>
+        <text>callback</text>
       </register>
       <register name="/" type="4">
         <text>onUiConn</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CUxPR0QoIkNhbGxiYWNrIik7CiAgICAgICAgSk5JRW52KiBnX2VudjsKCgkgICAgLy9kb3VibGUgY2hlY2sgaXQncyBhbGwgb2sKCSAgICBpbnQgZ2V0RW52U3RhdCA9IGdfdm0tPkdldEVudigodm9pZCAqKikmZ19lbnYsIEpOSV9WRVJTSU9OXzFfNik7CgogICAgICAgIC8vSmF2YVZNQXR0YWNoQXJncyBhcmdzOwogICAgICAgIC8vYXJncy52ZXJzaW9uID0gSk5JX1ZFUlNJT05fMV82OyAvLyBjaG9vc2UgeW91ciBKTkkgdmVyc2lvbgogICAgICAgIC8vYXJncy5uYW1lID0gTlVMTDsgLy8geW91IG1pZ2h0IHdhbnQgdG8gZ2l2ZSB0aGUgamF2YSB0aHJlYWQgYSBuYW1lCiAgICAgICAgLy9hcmdzLmdyb3VwID0gTlVMTDsgLy8geW91IG1pZ2h0IHdhbnQgdG8gYXNzaWduIHRoZSBqYXZhIHRocmVhZCB0byBhIFRocmVhZEdyb3VwCgoJICAgIGlmIChnZXRFbnZTdGF0ID09IEpOSV9FREVUQUNIRUQpIHsKCgkJICAgIExPR0QoIkdldEVudjogbm90IGF0dGFjaGVkIik7CgoJCSAgICBpZiAoZ192bS0+QXR0YWNoQ3VycmVudFRocmVhZCgmZ19lbnYsIE5VTEwpICE9IDApIHsKCQkJICAgIExPR0QoIkZhaWxlZCB0byBhdHRhY2giKTsKCQkgICAgfQoKCSAgICB9IGVsc2UgaWYgKGdldEVudlN0YXQgPT0gSk5JX09LKSB7CgkJICAgIExPR0QoIkdldEVudjogSm5pIE9LIik7CgkgICAgfSBlbHNlIGlmIChnZXRFbnZTdGF0ID09IEpOSV9FVkVSU0lPTikgewoJCSAgICBMT0dEKCJHZXRFbnY6IHZlcmlvbiBub3Qgc3VwcG9ydGVkIik7CgkgICAgfQoKICAgICAgICBqYnl0ZUFycmF5IHBhY2tldCA9IGdfZW52LT5OZXdCeXRlQXJyYXkobGVuZ3RoKTsKICAgICAgICBnX2Vudi0+U2V0Qnl0ZUFycmF5UmVnaW9uIChwYWNrZXQsIDAsIGxlbmd0aCwgKGpieXRlKikodmFsKSk7CiAgICAgICAgZ19lbnYtPkNhbGxWb2lkTWV0aG9kKGdfb2JqLCBnX21pZCwgcGFja2V0KTsKCiAgICAgICAgLy9kZWxldGVbXSB0ZW1wQnVmZmVyOwogICAgICAgIC8vCiAgICAgICAgLy8JaWYgKGdfZW52LT5FeGNlcHRpb25DaGVjaygpKSB7CiAgICAgICAgLy8JCWdfZW52LT5FeGNlcHRpb25EZXNjcmliZSgpOwogICAgICAgIC8vCX0KCiAgICAgICAgaWYoZ2V0RW52U3RhdCA9PSBKTklfRURFVEFDSEVEKQogICAgICAgICAgICBnX3ZtLT5EZXRhY2hDdXJyZW50VGhyZWFkKCk7CgogICAgICAgIC8vICAgIHJldHVybiByZXRWYWw7CiAgICB9</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW50IHNlbmREYXRhQ2FsbGJhY2sodW5zaWduZWQgY2hhciAqdmFsLCBpbnQgbGVuZ3RoKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>callback</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnX2Vudi0+U2V0Qnl0ZUFycmF5UmVnaW9uIChwYWNrZXQsIDAsIGxlbmd0aCwgKGpieXRlKikodmFsKSk7Cg==</text>
+      <register name="2" type="4">
+        <text>callback</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBqYnl0ZUFycmF5IHBhY2tldCA9IGdfZW52LT5OZXdCeXRlQXJyYXkobGVuZ3RoKTsK</text>
+      <register name="3" type="4">
+        <text>mid</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBnX2Vudi0+U2V0Qnl0ZUFycmF5UmVnaW9uIChwYWNrZXQsIDAsIGxlbmd0aCwgKGpieXRlKikodmFsKSk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>g_mid</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBqYnl0ZUFycmF5IHBhY2tldCA9IGdfZW52LT5OZXdCeXRlQXJyYXkobGVuZ3RoKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>packet</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBnX2Vudi0+Q2FsbFZvaWRNZXRob2QoZ19vYmosIG1pZCwgZGF0YSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>packet</text>
+        <text>callJavaCallback</text>
       </register>
       <register name="8" type="4">
-        <text>jmethodID mid, unsigned char *value, int length</text>
+        <text>callJavaCallback</text>
       </register>
-      <register name="9" type="4">
-        <text>Callback</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
