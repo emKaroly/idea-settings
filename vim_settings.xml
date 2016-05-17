@@ -113,11 +113,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.cpp" timestamp="1463468862615">
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="^" line="169" column="97" />
-        <mark key="." line="171" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.cpp" timestamp="1463479446141">
+        <mark key="[" line="173" column="53" />
+        <mark key="]" line="175" column="0" />
+        <mark key="^" line="173" column="86" />
+        <mark key="." line="175" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.h" timestamp="1463407291162">
         <mark key="[" line="58" column="47" />
@@ -383,10 +383,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBnX2Vudi0+UmVsZWFzZVN0cmluZ1VURkNoYXJzKHBhY2tldCx2YWwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>getByteArrayMethod</text>
+        <text>buf</text>
       </register>
       <register name="/" type="4">
         <text>onUiConn</text>
@@ -395,31 +395,31 @@
         <text encoding="base64">aW50IHNlbmREYXRhQ2FsbGJhY2sodW5zaWduZWQgY2hhciAqdmFsLCBpbnQgbGVuZ3RoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnX2Vudi0+UmVsZWFzZVN0cmluZ1VURkNoYXJzKHBhY2tldCx2YWwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdGQ6OnN0cmluZyBydih2YWwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjaGFyICp2YWwgPSBnX2Vudi0+R2V0U3RyaW5nVVRGQ2hhcnMocGFja2V0LCBKTklfRkFMU0UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBnX2Vudi0+UmVsZWFzZUJ5dGVBcnJheUVsZW1lbnRzKGJ5dGVBcnJheSwgbHN0cmVhbWVkRGF0YS0+dmFsdWUsIDAgKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqc3RyaW5nIHBhY2tldCA9IChqc3RyaW5nKWdfZW52LT5DYWxsT2JqZWN0TWV0aG9kKGdfb2JqLGdfbWlkR2V0RGF0YSwwKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZSA9IGdfZW52LT5HZXRCeXRlQXJyYXlFbGVtZW50cyhieXRlQXJyYXksIDApOwo=</text>
       </register>
       <register name="5" type="4">
-        <text>getByteArrayMethod</text>
+        <text>buf</text>
       </register>
       <register name="6" type="4">
-        <text>jstreamedData</text>
+        <text>buf</text>
       </register>
       <register name="7" type="4">
-        <text>callback</text>
+        <text>len</text>
       </register>
       <register name="8" type="4">
-        <text>callback</text>
+        <text>array</text>
       </register>
       <register name="9" type="4">
-        <text>mid</text>
+        <text>array</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
