@@ -125,10 +125,10 @@
         <mark key="." line="58" column="47" />
         <mark key="^" line="58" column="47" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/ThreadingTest.java" timestamp="1463487195369">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/ThreadingTest.java" timestamp="1463488335279">
+        <mark key="[" line="64" column="37" />
+        <mark key="]" line="64" column="58" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/res/menu/main.xml" timestamp="1459865924400">
         <mark key="[" line="14" column="44" />
@@ -382,7 +382,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBieXRlW10gcmV0VmFsID0gezF9Owo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJnZXREYXRhIC0gVGhyZWFkOiAiICsgdGhyZC5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>buf</text>
@@ -391,7 +391,7 @@
         <text>onUiConn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW50IHNlbmREYXRhQ2FsbGJhY2sodW5zaWduZWQgY2hhciAqdmFsLCBpbnQgbGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJnZXREYXRhIC0gVGhyZWFkOiAiICsgdGhyZC5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBieXRlW10gcmV0VmFsID0gezF9Owo=</text>
