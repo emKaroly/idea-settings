@@ -102,21 +102,22 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPI.java" timestamp="1463391441648">
-        <mark key="[" line="41" column="5" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/src/eu/tss/api/TSSAPI.java" timestamp="1463468721662">
+        <mark key="[" line="47" column="27" />
+        <mark key="]" line="47" column="25" />
+        <mark key="." line="47" column="25" />
+        <mark key="^" line="47" column="25" />
       </file>
       <file name="$USER_HOME$/Dropbox/TSS/AndroidTest/Swipe3/res/layout/clientidpinner.xml" timestamp="1450879815137">
         <mark key="[" line="6" column="38" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.cpp" timestamp="1463405519728">
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="141" column="57" />
-        <mark key="^" line="141" column="23" />
-        <mark key="." line="141" column="23" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.cpp" timestamp="1463468862615">
+        <mark key="[" line="171" column="0" />
+        <mark key="]" line="171" column="0" />
+        <mark key="^" line="169" column="97" />
+        <mark key="." line="171" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/TSSCoreAPIWrapper.h" timestamp="1463407291162">
         <mark key="[" line="58" column="47" />
@@ -382,10 +383,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW50IHNlbmREYXRhQ2FsbGJhY2sodW5zaWduZWQgY2hhciAqdmFsLCBpbnQgbGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgICAgICBnX2Vudi0+UmVsZWFzZVN0cmluZ1VURkNoYXJzKHBhY2tldCx2YWwpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>callback</text>
+        <text>getByteArrayMethod</text>
       </register>
       <register name="/" type="4">
         <text>onUiConn</text>
@@ -393,32 +394,32 @@
       <register name="0" type="2">
         <text encoding="base64">aW50IHNlbmREYXRhQ2FsbGJhY2sodW5zaWduZWQgY2hhciAqdmFsLCBpbnQgbGVuZ3RoKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>callback</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBnX2Vudi0+UmVsZWFzZVN0cmluZ1VURkNoYXJzKHBhY2tldCx2YWwpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>callback</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzdGQ6OnN0cmluZyBydih2YWwpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>mid</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBjaGFyICp2YWwgPSBnX2Vudi0+R2V0U3RyaW5nVVRGQ2hhcnMocGFja2V0LCBKTklfRkFMU0UpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnX2Vudi0+U2V0Qnl0ZUFycmF5UmVnaW9uIChwYWNrZXQsIDAsIGxlbmd0aCwgKGpieXRlKikodmFsKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBqc3RyaW5nIHBhY2tldCA9IChqc3RyaW5nKWdfZW52LT5DYWxsT2JqZWN0TWV0aG9kKGdfb2JqLGdfbWlkR2V0RGF0YSwwKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqYnl0ZUFycmF5IHBhY2tldCA9IGdfZW52LT5OZXdCeXRlQXJyYXkobGVuZ3RoKTsK</text>
+      <register name="5" type="4">
+        <text>getByteArrayMethod</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnX2Vudi0+Q2FsbFZvaWRNZXRob2QoZ19vYmosIG1pZCwgZGF0YSk7Cg==</text>
+      <register name="6" type="4">
+        <text>jstreamedData</text>
       </register>
       <register name="7" type="4">
-        <text>callJavaCallback</text>
+        <text>callback</text>
       </register>
       <register name="8" type="4">
-        <text>callJavaCallback</text>
+        <text>callback</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="9" type="4">
+        <text>mid</text>
       </register>
       <register name=":" type="4">
         <text>N</text>
