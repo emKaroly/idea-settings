@@ -3,7 +3,14 @@
     <exec>
       <option name="COMMAND" value="$USER_HOME$/Android/android-ndk-r10d/ndk-build" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/jni" />
+    </exec>
+  </tool>
+  <tool name="NDK Build - Module" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/Android/android-ndk-r10d/ndk-build" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$ModuleFileDir$/tssapi/jni" />
     </exec>
   </tool>
 </toolSet>
