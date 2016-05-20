@@ -10,7 +10,7 @@
     <exec>
       <option name="COMMAND" value="$USER_HOME$/Android/android-ndk-r10d/ndk-build" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$ModuleFileDir$/tssapi/jni" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Dropbox/Projects/TSS/TSSAPITester_Android/tssapi_android/jni" />
     </exec>
   </tool>
 </toolSet>
