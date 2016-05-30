@@ -16,9 +16,9 @@
       <file name="/a.dummy" timestamp="1462365421628">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/Application.mk" timestamp="1463645739174">
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="2" column="15" />
+      <file name="$USER_HOME$/Dropbox/Projects/TSS/TSSCloudClient_Android/jni/Application.mk" timestamp="1464601344150">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="21" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="0" />
       </file>
@@ -397,7 +397,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sYWlyZHRlY2guZGV2aWNlLnZzcC5TZXJpYWxNYW5hZ2VyOwo=</text>
+        <text encoding="base64">QVBQX0FCSSA6PSBhcm1lYWJpLXY3YQo=</text>
       </register>
       <register name="-" type="4">
         <text>buf</text>
@@ -406,7 +406,7 @@
         <text>onUiConn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TE9DQUxfU1JDX0ZJTEVTICs9IC4uLy4uL1RTU0NvcmVBUEkvVFNTQ29yZUFQSS9jb3JlYXBpLmNwcAo=</text>
+        <text encoding="base64">QVBQX0FCSSA6PSBhcm1lYWJpLXY3YQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5sYWlyZHRlY2guZGV2aWNlLnZzcC5TZXJpYWxNYW5hZ2VyOwo=</text>
